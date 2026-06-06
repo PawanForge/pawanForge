@@ -39,9 +39,27 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pawan902670-glitch&show_icons=true&theme=tokyonight&cache_seconds=86400" height="180em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawan902670-glitch&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan902670-glitch&layout=compact&theme=tokyonight&cache_seconds=86400" height="180em"/>
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pawan902670-glitch&theme=tokyonight" height="180em"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pawan902670-glitch&theme=tokyonight" height="180em"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pawan902670-glitch&theme=tokyonight" height="180em"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pawan902670-glitch&theme=tokyonight&utcOffset=5.5" height="180em"/>
 
 </p>
 
