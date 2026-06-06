@@ -16,12 +16,12 @@
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 Currently building modern frontend projects  
-- 🌱 Learning **Full Stack Web Development**  
-- 💻 Exploring **JavaScript, Python & Backend Technologies**  
-- 🎯 Goal: Become a **Professional Full Stack Developer**  
-- ⚡ Passionate about clean UI, interactive websites & real-world projects  
-- 🚀 Improving every day through consistency and practical learning  
+* 🔭 Currently building modern frontend projects
+* 🌱 Learning **Full Stack Web Development**
+* 💻 Exploring **JavaScript, Python, React & Backend Technologies**
+* 🎯 Goal: Become a **Professional Full Stack Developer**
+* ⚡ Passionate about clean UI, interactive websites & real-world projects
+* 🚀 Improving every day through consistency and practical learning
 
 ---
 
@@ -39,7 +39,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan902670-glitch&layout=compact&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pawan902670-glitch&show_icons=true&theme=tokyonight&border_radius=10" height="180em"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan902670-glitch&layout=compact&theme=tokyonight&border_radius=10" height="180em"/>
 
@@ -71,19 +71,41 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pawan902670-glitch&theme=algolia&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pawan902670-glitch&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
 ---
 
-# 🚀 What I'm Focused On
+# 🚀 Current Focus
 
-✨ Building responsive and interactive web applications  
-✨ Strengthening frontend and backend development skills  
-✨ Creating clean and modern UI/UX projects  
-✨ Becoming better through consistency and daily practice  
-✨ Contributing more projects to GitHub regularly  
+✨ Building responsive and interactive web applications
+✨ Learning React, Node.js and modern backend development
+✨ Strengthening problem-solving and development skills
+✨ Creating clean and modern UI/UX projects
+✨ Contributing more projects and code to GitHub regularly
+✨ Growing through consistency, discipline and daily practice
+
+---
+
+# 🎯 2026 Goals
+
+🏆 Complete Full Stack Development Roadmap
+🏆 Build 10+ Real-World Projects
+🏆 Master Git & GitHub Collaboration Workflow
+🏆 Learn REST APIs and Backend Development
+🏆 Contribute to Open Source Projects
+🏆 Create a Strong Developer Portfolio
+
+---
+
+# 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python" />
+
+</p>
 
 ---
 
@@ -107,6 +129,16 @@
 
 ---
 
+# 💡 Developer Quote
+
+<p align="center">
+
+✨ <b>Consistency + Learning + Building = Growth</b> ✨
+
+</p>
+
+---
+
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=pawan902670-glitch&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -116,5 +148,5 @@
 ---
 
 <h3 align="center">
-✨ “Consistency + Learning + Building = Growth” ✨
+⭐ Thanks for visiting my profile! ⭐
 </h3>
