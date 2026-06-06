@@ -57,28 +57,15 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pawan902670-glitch&theme=tokyonight&no-frame=true&row=2&column=4" />
+<img src="https://github-readme-stats.vercel.app/api?username=pawan902670-glitch&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/github/followers/pawan902670-glitch?style=for-the-badge&logo=github&label=Followers" />
-
-<img src="https://img.shields.io/github/stars/pawan902670-glitch?style=for-the-badge&logo=github&label=Stars" />
-
-<img src="https://img.shields.io/badge/Open%20Source-Learning-blue?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Full%20Stack-In%20Progress-success?style=for-the-badge" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=pawan902670-glitch&theme=tokyonight&hide_border=true" />
 
 </p>
-
-<p align="center">
-
-🌟 Building Projects • 🚀 Learning Daily • 💻 Growing as a Developer
-
-</p>
-
 ---
 
 # 🔥 Contribution Streak
