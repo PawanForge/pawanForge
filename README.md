@@ -57,13 +57,13 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pawan902670-glitch&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer-In%20Progress-blue?style=for-the-badge" />
 
-</p>
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-Learned-success?style=for-the-badge" />
 
-<p align="center">
+<img src="https://img.shields.io/badge/Projects-Building-orange?style=for-the-badge" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pawan902670-glitch&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/Learning-Daily-red?style=for-the-badge" />
 
 </p>
 ---
