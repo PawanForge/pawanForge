@@ -86,17 +86,7 @@
 
 </p>
 
----
-
-# 🏆 Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pawan902670-glitch&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
+------
 
 # 🚀 Current Focus
 
