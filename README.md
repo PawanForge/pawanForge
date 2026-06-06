@@ -39,9 +39,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pawan902670-glitch&show_icons=true&theme=tokyonight&border_radius=10" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pawan902670-glitch&show_icons=true&theme=tokyonight&cache_seconds=86400" height="180em"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan902670-glitch&layout=compact&theme=tokyonight&border_radius=10" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan902670-glitch&layout=compact&theme=tokyonight&cache_seconds=86400" height="180em"/>
 
 </p>
 
