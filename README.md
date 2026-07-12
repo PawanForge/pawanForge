@@ -14,20 +14,20 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 Currently building responsive and interactive web applications.
 - 🌱 Learning **React, Node.js, Express.js, MongoDB & Python**.
 - 💻 Exploring modern frontend and backend technologies.
 - 🎯 Goal: Become a Professional Full Stack Web Developer.
-- 🚀 Passionate about writing clean code and building user-friendly interfaces.
-- 📚 Continuously improving through hands-on projects and consistent learning.
+- 🚀 Passionate about creating clean, responsive and user-friendly websites.
+- 📚 Constantly improving through projects, consistency and continuous learning.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,express,mongodb,git,github,vscode" />
@@ -35,7 +35,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -51,7 +51,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawan902670-glitch&theme=tokyonight&hide_border=true"/>
@@ -59,45 +59,63 @@
 
 ---
 
-## 📈 Contribution Graph
+# 🌟 What Defines Me
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pawan902670-glitch&theme=tokyo-night"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pawan902670-glitch&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+- 💡 I believe learning never stops.
+- 🚀 I enjoy turning ideas into real-world web applications.
+- 🎯 I focus on writing clean, maintainable and user-friendly code.
+- 📚 Every project helps me become a better developer.
+- 🤝 I enjoy learning from the developer community.
+- 🔥 Consistency, curiosity and discipline drive my growth.
 
 ---
 
-## 🚀 Current Focus
+# 💻 Developer Mindset
 
-- 💻 Building responsive frontend projects.
-- ⚛️ Learning React and modern JavaScript.
-- 🌐 Exploring Backend Development with Node.js & Express.
-- 🗄️ Working with MongoDB databases.
-- 🔧 Improving Git & GitHub collaboration skills.
-- 🧩 Strengthening problem-solving through regular coding.
+```text
+✔ Learn by Building
+✔ Write Clean Code
+✔ Solve Real Problems
+✔ Stay Curious
+✔ Keep Improving
+✔ Never Stop Learning
+```
 
 ---
 
-## 🎯 Goals for 2026
+# 📌 Current Journey
 
-- ✅ Complete the Full Stack Development roadmap.
+- ⚛️ Learning the MERN Stack.
+- 🌐 Building responsive frontend projects.
+- 🔧 Improving JavaScript fundamentals.
+- 📂 Mastering Git & GitHub workflow.
+- 🚀 Exploring Backend Development.
+- 💼 Building a professional developer portfolio.
+
+---
+
+# ❤️ Beyond Coding
+
+- 📖 Reading technical documentation.
+- 💻 Building personal projects.
+- 🎨 Exploring modern UI/UX.
+- 🧩 Solving coding challenges.
+- 🌱 Learning something new every day.
+
+---
+
+# 🎯 Goals for 2026
+
+- ✅ Complete the Full Stack Development Roadmap.
 - 🚀 Build 10+ real-world projects.
 - 🌍 Deploy production-ready web applications.
 - 🤝 Contribute to Open Source.
-- 💼 Build a strong developer portfolio.
-- 📖 Keep learning and improving every day.
+- 💼 Land my first Full Stack Developer role.
+- 📚 Continue learning modern technologies.
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python"/>
@@ -105,7 +123,7 @@
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -117,7 +135,6 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<!-- Replace with your real LinkedIn profile -->
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -126,11 +143,11 @@
 
 ---
 
-## 💬 Developer Quote
+# 💬 My Development Philosophy
 
 <p align="center">
 
-> **"Success is built through consistency, curiosity, and continuous learning."**
+> **"Every expert was once a beginner. I believe growth comes from consistency, curiosity, and building real projects."**
 
 </p>
 
@@ -138,6 +155,6 @@
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
-<br><br>
-If you like my work, don't forget to ⭐ my repositories.
+<br>
+<sub>If you like my work, consider giving a ⭐ to my repositories.</sub>
 </h3>
