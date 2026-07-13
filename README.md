@@ -1,7 +1,3 @@
-<!-- ===================================================== -->
-<!--                  PREMIUM README                       -->
-<!--                     PART 1                            -->
-<!-- ===================================================== -->
 
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Pawan%20Kumar%20Yadav&fontAlign=50&fontAlignY=40&fontSize=48&animation=fadeIn&desc=Aspiring%20Full%20Stack%20Web%20Developer&descAlignY=63"/>
