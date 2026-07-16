@@ -1,34 +1,40 @@
 <h1 align="center">Hi 👋, I'm Pawan</h1>
 
-<h3 align="center">🚀 Aspiring Full Stack Web Developer | Passionate About Building Modern Web Applications</h3>
+<h3 align="center">
+🚀 Aspiring Full Stack Web Developer from India
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+Full+Stack+Web+Developer;Frontend+Developer;Learning+JavaScript,+React,+Node.js;Building+Real-World+Projects;Always+Learning+New+Technologies;Consistency+%7C+Learning+%7C+Growth" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Aspiring+Full+Stack+Web+Developer;Frontend+Developer;Learning+React+%26+Node.js;Building+Real+World+Projects;Always+Learning+New+Technologies;Code+%7C+Learn+%7C+Build+%7C+Repeat" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pawan902670-glitch&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://github.com/pawan902670-glitch">
+    <img src="https://komarev.com/ghpvc/?username=pawan902670-glitch&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+  </a>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🔭 Currently building modern and responsive web applications.
-- 🌱 Learning **Full Stack Web Development**.
-- 💻 Exploring **JavaScript, React, Node.js, Express.js, MongoDB & Python**.
-- 🚀 Passionate about creating modern UI/UX and scalable applications.
-- 🎯 Goal: Become a Professional Full Stack Web Developer.
-- 📚 Improving every day through consistency, projects and continuous learning.
+- 🌱 Learning **Full Stack Web Development**
+- 💻 Exploring **JavaScript, React, Node.js, Express.js, MongoDB & Python**
+- 🚀 Building responsive and interactive web applications
+- 📚 Improving through consistency and real-world projects
+- 🎯 Goal: Become a Professional Full Stack Developer
+- ⚡ Love creating clean UI and modern web experiences
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nodejs,express,mongodb,python,git,github,vscode,figma" />
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nodejs,express,mongodb,python,git,github,vscode,figma"/>
+
 </p>
 
 ---
@@ -36,8 +42,11 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pawan902670-glitch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan902670-glitch&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pawan902670-glitch&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan902670-glitch&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -45,7 +54,9 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pawan902670-glitch&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=pawan902670-glitch&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -53,25 +64,9 @@
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pawan902670-glitch&theme=tokyo-night&hide_border=true"/>
-</p>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pawan902670-glitch&theme=tokyo-night&hide_border=true"/>
 
-# 📋 GitHub Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawan902670-glitch&theme=github_dark"/>
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pawan902670-glitch&theme=github_dark"/>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pawan902670-glitch&theme=github_dark&utcOffset=5.5"/>
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pawan902670-glitch&theme=github_dark"/>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pawan902670-glitch&theme=github_dark"/>
 </p>
 
 ---
@@ -79,7 +74,9 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pawan902670-glitch&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=pawan902670-glitch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12"/>
+
 </p>
 
 ---
@@ -87,23 +84,23 @@
 # 🚀 Current Focus
 
 - 🌐 Building Responsive Web Applications
-- ⚛️ Learning React Ecosystem
-- 🚀 Exploring Backend Development
-- 🗄️ Working with MongoDB
+- ⚛️ Learning React
+- 🚀 Learning Node.js & Express.js
+- 🗄️ Exploring MongoDB
 - 💡 Improving JavaScript & DSA
-- 🔥 Practicing Git & GitHub Daily
+- 🔥 Practicing Git & GitHub
 - 📈 Building Real-World Projects
 
 ---
 
 # 🎯 Goals for 2026
 
-- ✅ Complete Full Stack Web Development Roadmap
+- ✅ Complete Full Stack Roadmap
 - 🚀 Build 10+ Real-World Projects
-- 💼 Create a Professional Developer Portfolio
-- 🌐 Deploy Full Stack Applications
+- 💼 Create a Professional Portfolio
+- 🌍 Deploy Full Stack Applications
 - 🤝 Contribute to Open Source
-- 📚 Master REST APIs & Backend Development
+- 📚 Master REST APIs
 - ⭐ Maintain Daily GitHub Contributions
 
 ---
@@ -111,7 +108,9 @@
 # 📚 Currently Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python" />
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python"/>
+
 </p>
 
 ---
@@ -136,28 +135,24 @@
 
 ---
 
-# 💬 Developer Philosophy
+# 💬 Developer Quote
 
 <p align="center">
 
-> **"Code • Learn • Build • Repeat."**
+> **"Consistency is more powerful than motivation."**
 
-> **Consistency is the key to becoming a better developer every day.**
+> **"Code. Learn. Build. Repeat."**
 
-</p>
-
----
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pawan902670-glitch&theme=algolia&row=2&column=4"/>
 </p>
 
 ---
 
 <h3 align="center">
-⭐ Thanks for Visiting My GitHub Profile! ⭐
-<br><br>
-💙 If you like my work, don't forget to ⭐ my repositories.
-<br><br>
+
+⭐ Thanks for visiting my profile! ⭐
+
+If you like my work, consider giving a ⭐ to my repositories.
+
 Happy Coding! 🚀
+
 </h3>
