@@ -5,13 +5,13 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Aspiring+Full+Stack+Web+Developer;Frontend+Developer;Learning+React+%26+Node.js;Building+Real+World+Projects;Always+Learning+New+Technologies;Code+%7C+Learn+%7C+Build+%7C+Repeat" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+Full+Stack+Web+Developer;Frontend+Developer;Learning+React+and+Node.js;Building+Real+World+Projects;Always+Learning+New+Technologies;Code+%7C+Learn+%7C+Build+%7C+Repeat" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/pawan902670-glitch">
-    <img src="https://komarev.com/ghpvc/?username=pawan902670-glitch&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
-  </a>
+<a href="https://github.com/pawan902670-glitch">
+<img src="https://komarev.com/ghpvc/?username=pawan902670-glitch&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+</a>
 </p>
 
 ---
@@ -22,10 +22,10 @@
 
 - 🌱 Learning **Full Stack Web Development**
 - 💻 Exploring **JavaScript, React, Node.js, Express.js, MongoDB & Python**
-- 🚀 Building responsive and interactive web applications
-- 📚 Improving through consistency and real-world projects
+- 🚀 Building Responsive & Interactive Web Applications
+- 📚 Learning through Real Projects
 - 🎯 Goal: Become a Professional Full Stack Developer
-- ⚡ Love creating clean UI and modern web experiences
+- ⚡ Passionate about Clean UI & Modern Web Design
 
 ---
 
@@ -42,23 +42,30 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pawan902670-glitch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan902670-glitch&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pawan902670-glitch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan902670-glitch&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
+
 ---
+
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pawan902670-glitch&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<img src="https://streak-stats.demolab.com?user=pawan902670-glitch&theme=tokyonight&hide_border=true"/>
+
 </p>
+
 ---
 
 # 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pawan902670-glitch&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pawan902670-glitch&theme=tokyo-night&hide_border=true&area=true"/>
 
 </p>
 
@@ -67,31 +74,34 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pawan902670-glitch&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=pawan902670-glitch&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
+
 </p>
+
 ---
 
 # 🚀 Current Focus
 
-- 🌐 Building Responsive Web Applications
-- ⚛️ Learning React
-- 🚀 Learning Node.js & Express.js
-- 🗄️ Exploring MongoDB
-- 💡 Improving JavaScript & DSA
-- 🔥 Practicing Git & GitHub
-- 📈 Building Real-World Projects
+- 🌐 Building Responsive Websites
+- ⚛️ React
+- 🚀 Node.js
+- 🗄️ MongoDB
+- 💡 JavaScript & DSA
+- 🔥 Git & GitHub
+- 📈 Full Stack Projects
 
 ---
 
-# 🎯 Goals for 2026
+# 🎯 Goals 2026
 
 - ✅ Complete Full Stack Roadmap
-- 🚀 Build 10+ Real-World Projects
-- 💼 Create a Professional Portfolio
-- 🌍 Deploy Full Stack Applications
-- 🤝 Contribute to Open Source
+- 🚀 Build 10+ Projects
+- 💼 Professional Portfolio
+- 🌍 Deploy Full Stack Apps
+- 🤝 Open Source Contribution
 - 📚 Master REST APIs
-- ⭐ Maintain Daily GitHub Contributions
+- ⭐ Daily GitHub Contributions
 
 ---
 
@@ -125,13 +135,13 @@
 
 ---
 
-# 💬 Developer Quote
+# 💬 Quote
 
 <p align="center">
 
-> **"Consistency is more powerful than motivation."**
+> **Consistency is more powerful than motivation.**
 
-> **"Code. Learn. Build. Repeat."**
+> **Code • Learn • Build • Repeat**
 
 </p>
 
@@ -139,10 +149,10 @@
 
 <h3 align="center">
 
-⭐ Thanks for visiting my profile! ⭐
+⭐ Thanks for visiting my profile ⭐
 
-If you like my work, consider giving a ⭐ to my repositories.
+If you like my projects, don't forget to ⭐ them.
 
-Happy Coding! 🚀
+Happy Coding 🚀
 
 </h3>
