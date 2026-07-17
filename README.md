@@ -42,23 +42,16 @@
 # 📊 GitHub Statistics
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pawan902670-glitch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pawan902670-glitch&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan902670-glitch&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan902670-glitch&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
-
 ---
-
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=pawan902670-glitch&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=pawan902670-glitch&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
-
 ---
 
 # 📈 Contribution Graph
@@ -74,11 +67,8 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pawan902670-glitch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=pawan902670-glitch&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
 </p>
-
 ---
 
 # 🚀 Current Focus
