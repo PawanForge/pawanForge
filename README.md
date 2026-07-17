@@ -32,66 +32,39 @@
 # 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nodejs,express,mongodb,python,git,github,vscode,figma"/>
-
-</p>
-
----## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=pawan902670-glitch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"
-    alt="GitHub Stats"
-  />
-
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan902670-glitch&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="80%"
-    src="https://streak-stats.demolab.com?user=pawan902670-glitch&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-----
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=pawan902670-glitch&theme=tokyonight&hide_border=true"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nodejs,express,mongodb,python,git,github,vscode,figma" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=pawan902670-glitch&theme=tokyo-night&hide_border=true&area=true"
-    alt="Contribution Graph"
-  />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pawan902670-glitch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan902670-glitch&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</p>
+
+<p align="center">
+<img width="80%" src="https://streak-stats.demolab.com?user=pawan902670-glitch&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=pawan902670-glitch&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4"
-    width="95%"
-    alt="GitHub Trophies"
-  />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pawan902670-glitch&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=pawan902670-glitch&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+</p>
+
 ---
 
 # 🚀 Current Focus
@@ -110,20 +83,18 @@
 
 - ✅ Complete Full Stack Roadmap
 - 🚀 Build 10+ Projects
-- 💼 Professional Portfolio
-- 🌍 Deploy Full Stack Apps
-- 🤝 Open Source Contribution
+- 💼 Build a Professional Portfolio
+- 🌍 Deploy Full Stack Applications
+- 🤝 Contribute to Open Source
 - 📚 Master REST APIs
-- ⭐ Daily GitHub Contributions
+- ⭐ Maintain Daily GitHub Contributions
 
 ---
 
 # 📚 Currently Learning
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python"/>
-
 </p>
 
 ---
@@ -153,7 +124,7 @@
 <p align="center">
 
 > **Consistency is more powerful than motivation.**
-
+>
 > **Code • Learn • Build • Repeat**
 
 </p>
@@ -161,11 +132,9 @@
 ---
 
 <h3 align="center">
-
 ⭐ Thanks for visiting my profile ⭐
-
+<br><br>
 If you like my projects, don't forget to ⭐ them.
-
+<br><br>
 Happy Coding 🚀
-
 </h3>
