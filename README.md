@@ -37,31 +37,26 @@
 
 </p>
 
----
-## 📊 GitHub Statistics
+---## 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/pawan902670-glitch">
-    <img
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api?username=pawan902670-glitch&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true"
-      alt="GitHub Stats"
-    />
-  </a>
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=pawan902670-glitch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
 
-  <a href="https://github.com/pawan902670-glitch">
-    <img
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan902670-glitch&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
-      alt="Top Languages"
-    />
-  </a>
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan902670-glitch&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
   <img
-    width="98%"
-    src="https://streak-stats.demolab.com?user=pawan902670-glitch&theme=tokyonight&hide_border=true&border_radius=12"
+    width="80%"
+    src="https://streak-stats.demolab.com?user=pawan902670-glitch&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
@@ -76,24 +71,27 @@
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pawan902670-glitch&theme=tokyo-night&hide_border=true&area=true"/>
-
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=pawan902670-glitch&theme=tokyo-night&hide_border=true&area=true"
+    alt="Contribution Graph"
+  />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pawan902670-glitch&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
-
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=pawan902670-glitch&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4"
+    width="95%"
+    alt="GitHub Trophies"
+  />
 </p>
-
 ---
 
 # 🚀 Current Focus
