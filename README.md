@@ -41,16 +41,31 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://ghstats.dev/api/card?username=pawan902670-glitch&theme=tokyonight"
-    height="180"
-  />
-  <img
-    src="https://ghstats.dev/api/top-langs?username=pawan902670-glitch&theme=tokyonight&layout=compact"
-    height="180"
-  />
-</p>---
+  <a href="https://github.com/pawan902670-glitch">
+    <img
+      width="49%"
+      src="https://github-readme-stats.vercel.app/api?username=pawan902670-glitch&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true"
+      alt="GitHub Stats"
+    />
+  </a>
 
+  <a href="https://github.com/pawan902670-glitch">
+    <img
+      width="49%"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan902670-glitch&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
+      alt="Top Languages"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    width="98%"
+    src="https://streak-stats.demolab.com?user=pawan902670-glitch&theme=tokyonight&hide_border=true&border_radius=12"
+    alt="GitHub Streak"
+  />
+</p>
+----
 # 🔥 GitHub Streak
 
 <p align="center">
