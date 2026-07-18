@@ -34,33 +34,12 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nodejs,express,mongodb,python,git,github,vscode,figma" />
 </p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pawan902670-glitch&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan902670-glitch&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pawan902670-glitch&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 # 📈 Contribution Graph
 
 <p align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pawan902670-glitch&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
----
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pawan902670-glitch&theme=algolia&no-frame=true&no-bg=true&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
