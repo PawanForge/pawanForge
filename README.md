@@ -58,8 +58,6 @@
 </p>
 
 ---
-<!-- ===================== GitHub Trophies ===================== -->
-
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
@@ -68,9 +66,6 @@
     alt="GitHub Trophies"
   />
 </p>
-
-<br>
-
 ---
 
 # 🚀 Current Focus
