@@ -37,16 +37,15 @@
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pawan902670-glitch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan902670-glitch&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pawan902670-glitch&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan902670-glitch&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img width="80%" src="https://streak-stats.demolab.com?user=pawan902670-glitch&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=pawan902670-glitch&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
