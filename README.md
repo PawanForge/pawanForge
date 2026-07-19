@@ -1,424 +1,270 @@
-<!-- ========================= HERO SECTION ========================= -->
+<div align="center">
 
-<h1 align="center">
-  Hi 👋, I'm Pawan Kumar Yadav
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:06B6D4,100:14B8A6&text=Pawan%20Kumar%20Yadav&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Web%20Developer%20🚀&descAlignY=58&animation=twinkling"/>
 
-<h3 align="center">
-🚀 Aspiring Full Stack Web Developer from India
-</h3>
+<br>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;React+Developer;JavaScript+Developer;Frontend+Enthusiast;Always+Learning+New+Technologies;Building+Projects+Every+Day" />
-</p>
-
----
-
-<table>
-<tr>
-
-<td width="35%" align="center">
-
-<img src="YOUR_PROFILE_IMAGE_LINK" width="230"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Pawan+Kumar+Yadav;Aspiring+Full+Stack+Web+Developer;React+•+JavaScript+•+Tailwind+CSS;Building+Modern+Web+Applications;Learning+Backend+Development;Never+Stop+Learning+🚀"/>
 
 <br><br>
 
-🌍 India
+<img src="https://komarev.com/ghpvc/?username=PawanForge&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge"/>
 
-🎓 Engineering Student
+<img src="https://img.shields.io/github/followers/PawanForge?logo=github&style=for-the-badge&color=181717"/>
 
-💻 Full Stack Developer
+<img src="https://img.shields.io/github/stars/PawanForge?style=for-the-badge&color=facc15"/>
 
-🔥 Learning React + Backend
+<img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge"/>
 
-🚀 Goal: Professional Software Engineer
+<img src="https://img.shields.io/badge/Always-Learning-blueviolet?style=for-the-badge"/>
 
-</td>
+<img src="https://img.shields.io/badge/Code-Everyday-orange?style=for-the-badge"/>
 
-<td width="65%">
-
-# 👨‍💻 About Me
-
-- 🌱 Currently learning **React, Node.js & Backend**
-- 💼 Building Real World Projects
-- ⚡ Love creating Modern UI
-- 🎯 Goal: Become a Professional Full Stack Developer
-- 📚 Improving DSA every day
-- 🚀 Open Source Contributor (Future)
-- 💬 Ask me about HTML, CSS, JavaScript, React & Tailwind CSS
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
-<p align="center">
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-<a href="https://github.com/pawan902670-glitch">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+# 💫 About Me
 
-</a>
+### 👋 Hello!
 
-<a href="https://linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+I'm **Pawan Kumar Yadav**, an aspiring **Full Stack Web Developer** from **India 🇮🇳**.
 
-</a>
+I enjoy building modern, responsive, and user-friendly web applications while continuously learning new technologies.
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+### 🚀 Currently
 
-</a>
-
-<!-- ========================= TECH STACK ========================= -->
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,vite,nodejs,express,mongodb,mysql,firebase,java,python,c,cpp,git,github,vscode,figma,postman,npm" />
-
-</p>
+- 🌱 Learning **React.js**
+- 🎨 Mastering **Tailwind CSS**
+- ⚡ Improving **JavaScript (ES6+)**
+- 🔥 Exploring **Node.js & Express.js**
+- 🗄️ Learning **MongoDB**
+- 💻 Practicing **Git & GitHub**
+- 🎯 Building real-world projects every week
 
 ---
 
-# ⚙️ Languages & Tools
+# 🎯 Developer Mindset
 
-<p align="center">
+✨ Write Clean Code
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
+🚀 Learn Something Every Day
 
-</p>
+💡 Build Real Projects
+
+📚 Never Stop Improving
+
+🤝 Open to Collaboration
+
+🌍 Future Full Stack Engineer
+
+---
+# 🚀 Tech Stack
+
+<div align="center">
+
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite&perline=6"/>
+
+<br><br>
+
+### ⚙️ Backend (Learning)
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3"/>
+
+<br><br>
+
+### 💻 Programming
+
+<img src="https://skillicons.dev/icons?i=javascript,python&perline=2"/>
+
+<br><br>
+
+### 🛠 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,figma&perline=6"/>
+
+</div>
 
 ---
 
 # 📚 Currently Learning
 
+<div align="center">
+
+| Technology | Progress |
+|------------|----------|
+| HTML5 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+| CSS3 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+| JavaScript | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80% |
+| React.js | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70% |
+| Tailwind CSS | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90% |
+| Git & GitHub | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90% |
+| Node.js | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ 50% |
+| Express.js | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40% |
+| MongoDB | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 30% |
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
 ```text
-███████████████████░░░░  HTML & CSS          95%
+🎯 Become a Professional Full Stack Developer
 
-██████████████████░░░░░  JavaScript          85%
+🎯 Master React Ecosystem
 
-█████████████████░░░░░░  React.js            80%
+🎯 Learn Node.js & Express.js
 
-████████████████░░░░░░░  Tailwind CSS        80%
+🎯 Build Full Stack Projects
 
-██████████████░░░░░░░░░  Node.js             70%
+🎯 Improve DSA & Problem Solving
 
-█████████████░░░░░░░░░░  Express.js          65%
+🎯 Deploy Real World Applications
 
-████████████░░░░░░░░░░░  MongoDB             60%
+🎯 Contribute to Open Source
 
-██████████░░░░░░░░░░░░░  DSA                 55%
+🎯 Land a Software Developer Internship
 ```
 
 ---
 
-<!-- ========================= GITHUB DASHBOARD ========================= -->
+# 🌟 Featured Projects
 
-# 📊 GitHub Analytics
+<div align="center">
 
-<p align="center">
+| 🚀 Project | 🛠️ Tech Stack | 🔗 Status |
+|------------|---------------|----------|
+| 🌐 Portfolio | React + Tailwind CSS | ✅ Completed |
+| ❓ Quiz App | React | ✅ Completed |
+| 📝 To-Do App | React | ✅ Completed |
+| 💰 Expense Tracker | JavaScript | ✅ Completed |
+| 💊 Medicine Reminder | HTML • CSS • JS | ✅ Completed |
+| ⚖️ BMI Calculator | JavaScript | ✅ Completed |
+| 📅 DOB Calculator | JavaScript | ✅ Completed |
+| 🎮 Tic Tac Toe | JavaScript | ✅ Completed |
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pawan902670-glitch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=pawan902670-glitch&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan902670-glitch&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 💡 Quote
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pawan902670-glitch&theme=tokyonight&no-frame=true&row=2&column=4"/>
+> **"Consistency beats perfection. Every line of code brings you one step closer to your goals." 🚀**
 
-</p>
+</div>
+
+---
+# 📊 GitHub Dashboard
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PawanForge&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanForge&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=PawanForge&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophy Wall
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PawanForge&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pawan902670-glitch&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PawanForge&theme=tokyo-night&hide_border=true"/>
 
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/pawan902670-glitch/pawan902670-glitch/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
+</div>
 
 ---
 
-</p>
+# ⚡ Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawanForge&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PawanForge&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PawanForge&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PawanForge&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PawanForge&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
 
 ---
-
-
-<!-- ========================= FEATURED PROJECTS ========================= -->
-
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 💼 Portfolio Website
-
-Modern responsive portfolio built with React & Tailwind CSS.
-
-🔗 **Live Demo**
-https://storied-taiyaki-22a286.netlify.app
-
-📂 **Tech**
-React • Tailwind CSS • Vite
-
-</td>
-
-<td width="50%">
-
-### 💰 Expense Tracker
-
-Track your daily income and expenses with charts.
-
-🔗 **Live Demo**
-https://gilded-sunburst-68fbf9.netlify.app
-
-📂 **Tech**
-React • JavaScript • CSS
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 💊 Medicine Reminder
-
-Medicine reminder application with clean UI.
-
-🔗 **Live Demo**
-https://friendly-griffin-05c0b7.netlify.app
-
-📂 **Tech**
-HTML • CSS • JavaScript
-
-</td>
-
-<td width="50%">
-
-### ✅ Todo App
-
-Simple and responsive Todo application.
-
-🔗 **Live Demo**
-https://creative-douhua-72b3e3.netlify.app
-
-📂 **Tech**
-React • CSS
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🧮 BMI Calculator
-
-Calculate Body Mass Index instantly.
-
-🔗 **Live Demo**
-https://lustrous-malasada-7a8678.netlify.app
-
-📂 **Tech**
-HTML • CSS • JavaScript
-
-</td>
-
-<td width="50%">
-
-### 🎮 Tic Tac Toe
-
-Classic Tic Tac Toe game.
-
-🔗 **Live Demo**
-https://majestic-taffy-4cdd29.netlify.app
-
-📂 **Tech**
-JavaScript • HTML • CSS
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### ❓ Quiz App
-
-Interactive quiz application.
-
-🔗 **Live Demo**
-https://spontaneous-strudel-5ec87f.netlify.app
-
-📂 **Tech**
-React • JavaScript
-
-</td>
-
-<td width="50%">
-
-### 🎂 Age Calculator
-
-Calculate exact age from Date of Birth.
-
-🔗 **Live Demo**
-https://luxury-speculoos-8c0823.netlify.app
-
-📂 **Tech**
-JavaScript • HTML • CSS
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🌟 What I'm Working On
-
-- 🚀 Full Stack Web Development
-- ⚛️ Advanced React Projects
-- 🌐 REST APIs
-- 🗄️ MongoDB & Express
-- 📚 Data Structures & Algorithms
-- 💼 Building Portfolio Projects
-
----
-<!-- ========================= CONNECT ========================= -->
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/pawan902670-glitch">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/PawanForge">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:your-email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
-<a href="https://twitter.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+<a href="https://twitter.com/">
+<img src="https://skillicons.dev/icons?i=twitter" height="55"/>
 </a>
 
-</p>
+<a href="https://discord.com/">
+<img src="https://skillicons.dev/icons?i=discord" height="55"/>
+</a>
+
+</div>
 
 ---
 
-# 📊 Profile Summary
+<div align="center">
 
-<p align="center">
+# 💖 Thanks for Visiting!
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawan902670-glitch&theme=tokyonight"/>
+### ⭐ If you like my work, don't forget to star my repositories.
 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:06B6D4,100:14B8A6&height=150&section=footer"/>
 
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pawan902670-glitch&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pawan902670-glitch&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pawan902670-glitch&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pawan902670-glitch&theme=tokyonight&utcOffset=5.5"/>
-
-</p>
-
----
-
-# 👀 Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=pawan902670-glitch&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
-# 💖 Support Me
-
-<p align="center">
-
-If you like my work, consider giving ⭐ to my repositories.
-
-Every ⭐ motivates me to build more awesome projects.
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding!;Let's+Build+Something+Amazing!+🚀" />
-
-</p>
-
----
-
-<h3 align="center">
-⭐ From <a href="https://github.com/pawan902670-glitch">Pawan Kumar Yadav</a> ⭐
-</h3>
+</div>
