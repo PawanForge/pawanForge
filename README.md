@@ -181,16 +181,6 @@ I enjoy building modern, responsive, and user-friendly web applications while co
 
 ---
 
-# 🏆 GitHub Trophy Wall
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PawanForge&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
@@ -200,32 +190,21 @@ I enjoy building modern, responsive, and user-friendly web applications while co
 </div>
 
 ---
-
 # ⚡ Coding Activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawanForge&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawanForge&theme=tokyonight" />
 
-</div>
+<br><br>
 
-<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PawanForge&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PawanForge&theme=tokyonight" />
 
-<div align="center">
+<br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PawanForge&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PawanForge&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PawanForge&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PawanForge&theme=tokyonight&utcOffset=5.5"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PawanForge&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PawanForge&theme=tokyonight&utcOffset=5" />
 
 </div>
 
@@ -236,23 +215,19 @@ I enjoy building modern, responsive, and user-friendly web applications while co
 <div align="center">
 
 <a href="https://github.com/PawanForge">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
+  <img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
-<a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
-<a href="https://twitter.com/">
-<img src="https://skillicons.dev/icons?i=twitter" height="55"/>
-</a>
-
-<a href="https://discord.com/">
-<img src="https://skillicons.dev/icons?i=discord" height="55"/>
+<a href="https://x.com/YOUR_USERNAME">
+  <img src="https://skillicons.dev/icons?i=twitter" height="55"/>
 </a>
 
 </div>
