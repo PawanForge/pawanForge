@@ -103,24 +103,20 @@ MongoDB	🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 30%
   
 🎯 Land a Software Developer Internship
 
-
 ---
+## 🌟 Featured Projects
 
-🌟 Featured Projects
+| Project | Live Demo | Repository | Tech Stack |
+|---------|-----------|------------|------------|
+| 🌐 Portfolio | [Live](https://your-portfolio-link) | [Code](https://github.com/PawanForge/portfolio) | React • Tailwind CSS |
+| ❓ Quiz App | [Live](https://your-link) | [Code](https://github.com/PawanForge/quiz-app) | React |
+| 📝 To-Do App | [Live](https://your-link) | [Code](https://github.com/PawanForge/todo-app) | React |
+| 💰 Expense Tracker | [Live](https://your-link) | [Code](https://github.com/PawanForge/expense-tracker) | HTML • CSS • JavaScript |
+| 💊 Medicine Reminder | [Live](https://your-link) | [Code](https://github.com/PawanForge/medicine-reminder) | HTML • CSS • JavaScript |
+| ⚖️ BMI Calculator | [Live](https://your-link) | [Code](https://github.com/PawanForge/bmi-calculator) | HTML • CSS • JavaScript |
+| 📅 DOB Calculator | [Live](https://your-link) | [Code](https://github.com/PawanForge/dob-calculator) | HTML • CSS • JavaScript |
+| 🎮 Tic Tac Toe | [Live](https://your-link) | [Code](https://github.com/PawanForge/tic-tac-toe) | HTML • CSS • JavaScript |
 
-<div align="center">  🚀 Project	🛠️ Tech Stack	🔗 Status
-
-🌐 Portfolio	React + Tailwind CSS	✅ Completed
-❓ Quiz App	React	✅ Completed
-📝 To-Do App	React	✅ Completed
-💰 Expense Tracker	JavaScript	✅ Completed
-💊 Medicine Reminder	HTML • CSS • JS	✅ Completed
-⚖️ BMI Calculator	JavaScript	✅ Completed
-📅 DOB Calculator	JavaScript	✅ Completed
-🎮 Tic Tac Toe	JavaScript	✅ Completed
-
-
-</div>  
 ---
 
 💡 Quote
