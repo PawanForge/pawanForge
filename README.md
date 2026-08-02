@@ -179,16 +179,6 @@ I enjoy building modern, responsive, and user-friendly web applications while co
 
 ---
 
-## 🏆 GitHub Trophy Wall
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PawanForge&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
