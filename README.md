@@ -20,70 +20,6 @@
 
 ---
 
-# 🚀 Professional Snapshot
-
-<div align="center">
-
-| 💼 Role | 🎯 Looking For | 💻 Tech Stack | 📍 Status |
-|:-------:|:--------------:|:-------------:|:---------:|
-| **Aspiring Full Stack Developer** | **Software Development Internship** | **React • JavaScript • Tailwind CSS • Node.js** | 🟢 **Open to Opportunities** |
-
-</div>
-
-<div align="center">
-
-### 🌟 Why Hire Me?
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-✅ Build responsive & modern web applications
-
-✅ Write clean, maintainable code
-
-✅ Strong JavaScript & React fundamentals
-
-✅ Fast learner with a growth mindset
-
-</td>
-
-<td width="50%">
-
-🚀 Passionate about solving real-world problems
-
-🤝 Team player & collaborative developer
-
-📚 Continuously learning MERN Stack
-
-💡 Love building practical, production-ready projects
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 🎯 Career Goal
-
-*"I'm passionate about creating impactful web applications and continuously improving my skills. I'm actively seeking an opportunity where I can contribute, learn from experienced developers, and grow into a professional Full Stack Engineer."*
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🚀%20Open%20to-Internships-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/💻%20Building-MERN%20Projects-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🌱%20Always-Learning-orange?style=for-the-badge"/>
-
-</div>
-
----
-
 # 💫 About Me
 
 - 🌱 Learning **React.js**
@@ -92,3 +28,129 @@
 - 💻 Building projects every week
 - 📚 Improving DSA & JavaScript
 - ⚡ Love creating responsive websites
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PawanForge&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanForge&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=PawanForge&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PawanForge&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PawanForge&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Tech |
+|----------|------|
+| 🌐 Portfolio | React |
+| 📝 Todo App | React |
+| 💰 Expense Tracker | React |
+| ❓ Quiz App | React |
+| 💊 Medicine Reminder | HTML CSS JS |
+| ⚖️ BMI Calculator | React |
+
+---
+
+# 📚 Currently Learning
+
+```text
+HTML         ██████████ 100%
+CSS          ██████████ 100%
+JavaScript   ████████░░ 80%
+React        ███████░░░ 70%
+Tailwind     █████████░ 90%
+Node.js      █████░░░░░ 50%
+Express      ████░░░░░░ 40%
+MongoDB      ███░░░░░░░ 30%
+```
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/PawanForge">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://twitter.com/YOURUSERNAME">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💙 Thanks for visiting my profile!
+
+⭐ Don't forget to Star my repositories.
+
+</div>
