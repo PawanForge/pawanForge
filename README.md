@@ -1,142 +1,213 @@
-<div align="center">👋 Hi, I'm Pawan Kumar Yadav
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=200&section=header&text=Pawan%20Kumar%20Yadav&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=20"/>🚀 Building • Learning • Creating Impact
 
-🚀 Full Stack Web Developer | Learning • Building • Growing
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast;Learning+Node.js+%26+MongoDB;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality"/><br/><img src="https://komarev.com/ghpvc/?username=PawanForge&label=Profile%20Views&style=for-the-badge&color=007CF0"/>
+<img src="https://img.shields.io/github/followers/PawanForge?style=for-the-badge&logo=github&color=181717"/>
+<img src="https://img.shields.io/github/stars/PawanForge?style=for-the-badge&logo=github&color=yellow"/></div>---
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast;Learning+Node.js+%26+MongoDB;Building+Modern+Web+Applications;Turning+Ideas+Into+Real+Projects"/><p>
-  <img src="https://komarev.com/ghpvc/?username=PawanForge&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/PawanForge?logo=github&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/PawanForge?affiliations=OWNER&style=for-the-badge"/>
-</p></div>---
+👨‍💻 About Me
 
-💫 About Me
+const pawan = {
+    name: "Pawan Kumar Yadav",
+    role: "Full Stack Web Developer",
+    focus: ["Web Development", "Problem Solving", "Learning"],
+    
+    frontend: ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js", "MongoDB"],
+    
+    currentlyLearning: [
+        "Advanced React",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "DSA"
+    ],
 
-🚀 I'm a passionate Full Stack Web Developer who loves building modern, responsive, and useful web applications.
+    goal: "Become a skilled Full Stack Developer",
+    mindset: "Learn → Build → Improve → Repeat"
+};
 
-- 🌱 Currently learning React.js, Node.js, Express.js & MongoDB
-- 💻 Building real-world projects to improve my development skills
-- 📚 Practicing DSA, JavaScript & problem solving
-- 🎯 Goal: Become a skilled Professional Full Stack Developer
-- ⚡ Learning new technologies and improving every day
-- 💡 Believe in learning by building
-
-«💙 Code is not just about solving problems — it's about creating something useful.»
+«💡 I don't just want to write code — I want to build things that are useful.»
 
 ---
 
 🌍 Creating Positive Impact
 
-I believe technology becomes meaningful when it solves real problems and makes people's lives easier.
+I believe great software should solve problems, save time, and make people's lives easier.
 
-Through my projects, I try to build simple and useful applications that can:
+<table>
+<tr>
+<td align="center" width="25%">🧩
 
-- ⚡ Save time and improve productivity
-- 🧩 Solve everyday problems
-- 🎨 Provide simple and friendly user experiences
-- 📚 Make learning more interactive
-- 🚀 Turn ideas into practical solutions
+Solve
 
-💡 My Development Philosophy
+Build solutions for real-world problems.
 
-Learn → Build → Test → Improve → Share
+</td><td align="center" width="25%">⚡
 
-«🚀 Build something useful. Learn something new. Make a positive impact.»
+Simplify
 
----
+Make complicated tasks easier.
 
-🚀 Tech Stack
+</td><td align="center" width="25%">🎨
 
-🎨 Frontend
+Design
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite"/>
-</p>⚙️ Backend
+Create clean & user-friendly experiences.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
-</p>🛠️ Tools & Technologies
+</td><td align="center" width="25%">🚀
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm"/>
-</p>---
+Impact
+
+Turn ideas into useful products.
+
+</td>
+</tr>
+</table><br/><div align="center">Learn → Build → Test → Improve → Share
+
+</div>---
+
+🛠️ Tech Stack
+
+<div align="center">🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite&perline=7"/><br/><br/>
+
+⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=7"/><br/><br/>
+
+🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm&perline=7"/></div>---
 
 🚀 Featured Projects
 
-🚀 Project| 💡 Description| 🛠️ Tech Stack
-🌐 Portfolio| Personal portfolio to showcase my skills and projects| React • Tailwind
-💰 Expense Tracker| Track and manage daily expenses| React
-📝 Todo App| Simple CRUD task management application| React
-❓ Quiz App| Interactive quiz and learning application| React
-💊 Medicine Reminder| Reminder application for important schedules| HTML • CSS • JavaScript
-⚖️ BMI Calculator| Simple BMI calculation tool| React
+<table>
+<tr>
+<td width="50%">🌐 Portfolio
 
-«🚧 More projects are coming soon...»
+A modern personal portfolio website to showcase my skills, projects and development journey.
+
+Tech: "React" "Tailwind CSS"
+
+</td><td width="50%">💰 Expense Tracker
+
+A simple application for tracking and managing daily expenses.
+
+Tech: "React"
+
+</td>
+</tr><tr>
+<td width="50%">📝 Todo App
+
+A clean CRUD-based task management application for organizing daily tasks.
+
+Tech: "React"
+
+</td><td width="50%">❓ Quiz App
+
+An interactive quiz application designed for learning and self-assessment.
+
+Tech: "React"
+
+</td>
+</tr><tr>
+<td width="50%">💊 Medicine Reminder
+
+A simple reminder application for managing important medicine schedules.
+
+Tech: "HTML" "CSS" "JavaScript"
+
+</td><td width="50%">⚖️ BMI Calculator
+
+A lightweight application for calculating BMI from user input.
+
+Tech: "React"
+
+</td>
+</tr>
+</table>---
+
+📚 Currently Learning
+
+<div align="center">Technology| Progress
+HTML| 🟩🟩🟩🟩🟩 100%
+CSS| 🟩🟩🟩🟩🟩 100%
+JavaScript| 🟩🟩🟩🟩⬜ 90%
+React| 🟩🟩🟩🟩⬜ 80%
+Tailwind CSS| 🟩🟩🟩🟩⬜ 90%
+Node.js| 🟩🟩🟩⬜⬜ 60%
+Express.js| 🟩🟩🟩⬜⬜ 50%
+MongoDB| 🟩🟩⬜⬜⬜ 40%
+
+</div>«📌 Progress represents my current learning confidence and is continuously improving.»
 
 ---
 
 📊 GitHub Statistics
 
-<p align="center"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=PawanForge&show_icons=true&theme=tokyonight&hide_border=true"/><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanForge&layout=compact&theme=tokyonight&hide_border=true"/></p><p align="center"><img width="70%" src="https://streak-stats.demolab.com?user=PawanForge&theme=tokyonight&hide_border=true"/></p>---
+<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=PawanForge&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanForge&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/><br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=PawanForge&theme=tokyonight&hide_border=true&border_radius=12"/></div>---
 
 📈 Contribution Graph
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=PawanForge&theme=tokyo-night&hide_border=true"/></p>---
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=PawanForge&theme=tokyo-night&hide_border=true&radius=12"/></div>---
 
 🏆 GitHub Trophies
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=PawanForge&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/></p>---
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=PawanForge&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/></div>---
 
-📚 Currently Learning
+🎯 2026 Goals
 
-HTML         ██████████ 100%
-CSS          ██████████ 100%
-JavaScript   █████████░  90%
-React        ████████░░  80%
-Tailwind CSS █████████░  90%
-Node.js      ██████░░░░  60%
-Express.js   █████░░░░░  50%
-MongoDB      ████░░░░░░  40%
-
-«📌 These percentages represent my current learning confidence and are continuously improving.»
-
----
-
-🎯 My Goals
-
-- 🚀 Become a strong Full Stack Developer
-- ⚛️ Build advanced React applications
-- 🟢 Learn backend development deeply
-- 🍃 Become comfortable with MongoDB
-- 🧠 Improve DSA & problem-solving skills
-- 🌍 Contribute to Open Source
-- 💼 Build production-ready applications
-- 🤝 Collaborate with other developers
-- 💡 Build projects that create real-world value
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  ⚛️  Master React & Modern Frontend Development         │
+│  🟢  Build Strong Backend Skills                        │
+│  🍃  Learn MongoDB & Database Design                    │
+│  🧠  Improve DSA & Problem Solving                      │
+│  🚀  Build Production-Ready Applications                │
+│  🌍  Contribute to Open Source                          │
+│  🤝  Collaborate & Learn From Other Developers          │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 
 ---
 
-🔥 What I'm Working On
+🔥 Developer Journey
 
-⚛️ React Projects
-🟢 Node.js & Express APIs
-🍃 MongoDB
-🧠 JavaScript & DSA
-🎨 Modern UI/UX
-🚀 Full Stack Applications
+<div align="center">       📚 LEARN
+          ↓
+       💻 BUILD
+          ↓
+       🧪 TEST
+          ↓
+       🔧 IMPROVE
+          ↓
+       🚀 DEPLOY
+          ↓
+       🌍 IMPACT
+          ↓
+       🔁 REPEAT
 
----
+"Every project is one step closer to becoming a better developer."
+
+</div>---
 
 🌐 Connect With Me
 
-<p align="center"><a href="https://github.com/PawanForge">
-  <img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a><a href="https://linkedin.com">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a></p>---
+<div align="center"><a href="https://github.com/PawanForge">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a></div>---
 
-<div align="center">💙 Thanks for visiting my profile!
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00F7FF&height=120&section=footer"/>💙 Thanks for visiting my profile!
 
 🚀 Learn • Build • Improve • Impact
 
-⭐ If you like my work, consider starring my repositories!
+⭐ If you like my work, consider starring my repositories.
 
 </div>
