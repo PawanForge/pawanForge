@@ -3,41 +3,43 @@
 🚀 Full Stack Web Developer | Learning • Building • Growing
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast;Learning+Node.js+%26+MongoDB;Building+Modern+Web+Applications;Turning+Ideas+Into+Real+Projects"/><p>
-<img src="https://komarev.com/ghpvc/?username=PawanForge&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/PawanForge?logo=github&style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/PawanForge?affiliations=OWNER&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=PawanForge&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/PawanForge?logo=github&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/PawanForge?affiliations=OWNER&style=for-the-badge"/>
 </p></div>---
 
 💫 About Me
 
-🚀 I'm a passionate developer who loves creating modern, responsive, and useful web applications.
+🚀 I'm a passionate Full Stack Web Developer who loves building modern, responsive, and useful web applications.
 
 - 🌱 Currently learning React.js, Node.js, Express.js & MongoDB
-- 💻 Building projects to turn ideas into real-world applications
+- 💻 Building real-world projects to improve my development skills
 - 📚 Practicing DSA, JavaScript & problem solving
-- 🎯 Goal: Become a skilled Full Stack Developer
-- ⚡ Learning something new and improving every day
+- 🎯 Goal: Become a skilled Professional Full Stack Developer
+- ⚡ Learning new technologies and improving every day
 - 💡 Believe in learning by building
 
 «💙 Code is not just about solving problems — it's about creating something useful.»
 
 ---
 
-🌍 My Positive Impact
+🌍 Creating Positive Impact
 
-I want my projects to be more than just coding practice.
+I believe technology becomes meaningful when it solves real problems and makes people's lives easier.
 
-I try to build applications that can make everyday tasks easier, save time, improve productivity, and provide simple solutions to real problems.
+Through my projects, I try to build simple and useful applications that can:
 
-💡 What I Focus On
+- ⚡ Save time and improve productivity
+- 🧩 Solve everyday problems
+- 🎨 Provide simple and friendly user experiences
+- 📚 Make learning more interactive
+- 🚀 Turn ideas into practical solutions
 
-🚀 Build — Turn ideas into working applications
-🧩 Solve — Find simple solutions to real problems
-🎨 Design — Create clean and user-friendly interfaces
-📚 Learn — Improve through every project
-🤝 Share — Learn and grow with the developer community
+💡 My Development Philosophy
 
-Learn → Build → Improve → Share → Repeat
+Learn → Build → Test → Improve → Share
+
+«🚀 Build something useful. Learn something new. Make a positive impact.»
 
 ---
 
@@ -46,28 +48,28 @@ Learn → Build → Improve → Share → Repeat
 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite"/>
 </p>⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
 </p>🛠️ Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm"/>
 </p>---
 
 🚀 Featured Projects
 
-🚀 Project| 💡 Description| 🛠️ Technology
-🌐 Portfolio| Personal portfolio to showcase my skills & projects| React • Tailwind
+🚀 Project| 💡 Description| 🛠️ Tech Stack
+🌐 Portfolio| Personal portfolio to showcase my skills and projects| React • Tailwind
 💰 Expense Tracker| Track and manage daily expenses| React
 📝 Todo App| Simple CRUD task management application| React
 ❓ Quiz App| Interactive quiz and learning application| React
-💊 Medicine Reminder| Reminder application for important schedules| HTML • CSS • JS
+💊 Medicine Reminder| Reminder application for important schedules| HTML • CSS • JavaScript
 ⚖️ BMI Calculator| Simple BMI calculation tool| React
 
-«🚧 More projects coming soon...»
+«🚧 More projects are coming soon...»
 
 ---
 
@@ -94,7 +96,7 @@ Node.js      ██████░░░░  60%
 Express.js   █████░░░░░  50%
 MongoDB      ████░░░░░░  40%
 
-«📌 These percentages represent my current learning level and are continuously improving.»
+«📌 These percentages represent my current learning confidence and are continuously improving.»
 
 ---
 
@@ -108,15 +110,27 @@ MongoDB      ████░░░░░░  40%
 - 🌍 Contribute to Open Source
 - 💼 Build production-ready applications
 - 🤝 Collaborate with other developers
+- 💡 Build projects that create real-world value
+
+---
+
+🔥 What I'm Working On
+
+⚛️ React Projects
+🟢 Node.js & Express APIs
+🍃 MongoDB
+🧠 JavaScript & DSA
+🎨 Modern UI/UX
+🚀 Full Stack Applications
 
 ---
 
 🌐 Connect With Me
 
 <p align="center"><a href="https://github.com/PawanForge">
-<img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a><a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a></p>---
 
 <div align="center">💙 Thanks for visiting my profile!
