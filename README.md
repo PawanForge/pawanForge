@@ -1,6 +1,6 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=200&section=header&text=Pawan%20Kumar%20Yadav&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=20"/>🚀 Building • Learning • Creating Impact
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=200&section=header&text=Pawan%20Kumar%20Yadav&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=20" width="100%"/>🚀 Building • Learning • Creating Impact
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast;Learning+Node.js+%26+MongoDB;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality"/><br/><img src="https://komarev.com/ghpvc/?username=PawanForge&label=Profile%20Views&style=for-the-badge&color=007CF0"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast;Learning+Node.js+%26+MongoDB;Building+Modern+Web+Applications;Turning+Ideas+Into+Reality" /><br/><img src="https://komarev.com/ghpvc/?username=PawanForge&label=Profile%20Views&style=for-the-badge&color=007CF0"/>
 <img src="https://img.shields.io/github/followers/PawanForge?style=for-the-badge&logo=github&color=181717"/>
 <img src="https://img.shields.io/github/stars/PawanForge?style=for-the-badge&logo=github&color=yellow"/></div>---
 
@@ -9,11 +9,27 @@
 const pawan = {
     name: "Pawan Kumar Yadav",
     role: "Full Stack Web Developer",
-    focus: ["Web Development", "Problem Solving", "Learning"],
-    
-    frontend: ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js", "MongoDB"],
-    
+
+    focus: [
+        "Web Development",
+        "Problem Solving",
+        "Learning"
+    ],
+
+    frontend: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Tailwind CSS"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express.js",
+        "MongoDB"
+    ],
+
     currentlyLearning: [
         "Advanced React",
         "Node.js",
@@ -23,6 +39,7 @@ const pawan = {
     ],
 
     goal: "Become a skilled Full Stack Developer",
+
     mindset: "Learn → Build → Improve → Repeat"
 };
 
@@ -36,27 +53,19 @@ I believe great software should solve problems, save time, and make people's liv
 
 <table>
 <tr>
-<td align="center" width="25%">🧩
-
-Solve
+<td align="center" width="25%">🧩 Solve
 
 Build solutions for real-world problems.
 
-</td><td align="center" width="25%">⚡
-
-Simplify
+</td><td align="center" width="25%">⚡ Simplify
 
 Make complicated tasks easier.
 
-</td><td align="center" width="25%">🎨
+</td><td align="center" width="25%">🎨 Design
 
-Design
+Create clean and user-friendly experiences.
 
-Create clean & user-friendly experiences.
-
-</td><td align="center" width="25%">🚀
-
-Impact
+</td><td align="center" width="25%">🚀 Impact
 
 Turn ideas into useful products.
 
@@ -70,15 +79,15 @@ Turn ideas into useful products.
 
 <div align="center">🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite&perline=7"/><br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite&perline=7" /><br/><br/>
 
 ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=7"/><br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=7" /><br/><br/>
 
 🔧 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm&perline=7"/></div>---
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm&perline=7" /></div>---
 
 🚀 Featured Projects
 
@@ -86,15 +95,15 @@ Turn ideas into useful products.
 <tr>
 <td width="50%">🌐 Portfolio
 
-A modern personal portfolio website to showcase my skills, projects and development journey.
+A modern personal portfolio website to showcase my skills, projects, and development journey.
 
-Tech: "React" "Tailwind CSS"
+Tech: React • Tailwind CSS
 
 </td><td width="50%">💰 Expense Tracker
 
 A simple application for tracking and managing daily expenses.
 
-Tech: "React"
+Tech: React
 
 </td>
 </tr><tr>
@@ -102,13 +111,13 @@ Tech: "React"
 
 A clean CRUD-based task management application for organizing daily tasks.
 
-Tech: "React"
+Tech: React
 
 </td><td width="50%">❓ Quiz App
 
 An interactive quiz application designed for learning and self-assessment.
 
-Tech: "React"
+Tech: React
 
 </td>
 </tr><tr>
@@ -116,13 +125,13 @@ Tech: "React"
 
 A simple reminder application for managing important medicine schedules.
 
-Tech: "HTML" "CSS" "JavaScript"
+Tech: HTML • CSS • JavaScript
 
 </td><td width="50%">⚖️ BMI Calculator
 
 A lightweight application for calculating BMI from user input.
 
-Tech: "React"
+Tech: React
 
 </td>
 </tr>
@@ -130,7 +139,7 @@ Tech: "React"
 
 📚 Currently Learning
 
-<div align="center">Technology| Progress
+Technology| Progress
 HTML| 🟩🟩🟩🟩🟩 100%
 CSS| 🟩🟩🟩🟩🟩 100%
 JavaScript| 🟩🟩🟩🟩⬜ 90%
@@ -140,23 +149,23 @@ Node.js| 🟩🟩🟩⬜⬜ 60%
 Express.js| 🟩🟩🟩⬜⬜ 50%
 MongoDB| 🟩🟩⬜⬜⬜ 40%
 
-</div>«📌 Progress represents my current learning confidence and is continuously improving.»
+«📌 Progress represents my current learning confidence and continuously improves as I build more projects.»
 
 ---
 
 📊 GitHub Statistics
 
-<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=PawanForge&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanForge&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/><br/><br/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=PawanForge&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=1800" width="49%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanForge&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=1800" width="49%" /><br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=PawanForge&theme=tokyonight&hide_border=true&border_radius=12"/></div>---
+<img src="https://streak-stats.demolab.com?user=PawanForge&theme=tokyonight&hide_border=true&border_radius=12" width="70%" /></div>---
 
-📈 Contribution Graph
+📈 GitHub Contribution Graph
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=PawanForge&theme=tokyo-night&hide_border=true&radius=12"/></div>---
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=PawanForge&theme=tokyo-night&hide_border=true&radius=12" width="95%" /></div>---
 
 🏆 GitHub Trophies
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=PawanForge&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/></div>---
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=PawanForge&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%" /></div>---
 
 🎯 2026 Goals
 
@@ -176,19 +185,19 @@ MongoDB| 🟩🟩⬜⬜⬜ 40%
 
 🔥 Developer Journey
 
-<div align="center">       📚 LEARN
-          ↓
-       💻 BUILD
-          ↓
-       🧪 TEST
-          ↓
-       🔧 IMPROVE
-          ↓
-       🚀 DEPLOY
-          ↓
-       🌍 IMPACT
-          ↓
-       🔁 REPEAT
+<div align="center">        📚 LEARN
+           ↓
+        💻 BUILD
+           ↓
+        🧪 TEST
+           ↓
+        🔧 IMPROVE
+           ↓
+        🚀 DEPLOY
+           ↓
+        🌍 IMPACT
+           ↓
+        🔁 REPEAT
 
 "Every project is one step closer to becoming a better developer."
 
@@ -198,13 +207,13 @@ MongoDB| 🟩🟩⬜⬜⬜ 40%
 
 <div align="center"><a href="https://github.com/PawanForge">
 <img src="https://skillicons.dev/icons?i=github" width="55"/>
-</a>
-&nbsp;&nbsp;&nbsp;
+</a>   
+
 <a href="https://linkedin.com">
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a></div>---
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00F7FF&height=120&section=footer"/>💙 Thanks for visiting my profile!
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00F7FF&height=120&section=footer" width="100%"/>💙 Thanks for visiting my profile!
 
 🚀 Learn • Build • Improve • Impact
 
