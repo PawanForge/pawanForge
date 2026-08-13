@@ -11,7 +11,7 @@ width="100%"
 
 ### 🚀 My Goal: Become a Skilled Full Stack Web Developer
 
-I'm learning, building and improving every day by creating real-world projects and exploring modern web technologies.
+Learning, building and improving every day through real-world projects and modern web technologies.
 
 <img
 src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Future+Full+Stack+Developer;JavaScript+Enthusiast;React+Developer;Building+Real+World+Projects;Learning+Node.js+%26+MongoDB;Open+Source+%26+DSA+Learner"
@@ -113,8 +113,6 @@ const pawan = {
 
 # 📚 Currently Learning
 
-I'm currently focusing on becoming a **Full Stack Developer**.
-
 * ⚛️ Advanced React
 * 🟢 Node.js
 * 🚂 Express.js
@@ -128,8 +126,6 @@ I'm currently focusing on becoming a **Full Stack Developer**.
 ---
 
 # 🚀 My Projects
-
-Some projects I've built while learning and improving my development skills.
 
 ### 🧠 Quiz App
 
@@ -165,22 +161,20 @@ Personal portfolio website to showcase my skills, projects and development journ
 
 # 🤝 Open Source & Contributions
 
-I'm currently learning and exploring the world of **Open Source**.
+I'm learning and exploring the world of **Open Source** and actively improving my GitHub workflow.
 
-* 🌱 Learning open-source contribution workflow
-* 🐛 Exploring issues and bug fixing
+* 🌱 Exploring open-source projects
+* 🐛 Working with issues and bug fixing
 * 🔀 Learning Pull Requests
-* 💻 Improving Git & GitHub workflow
-* 🤝 Looking forward to collaborating with developers
-* 🚀 Building projects to gain real-world experience
+* 💻 Improving Git & GitHub skills
+* 🤝 Collaborating with other developers
+* 🚀 Building real-world projects
 
 ---
 
 # 🧠 DSA & Problem Solving
 
-Alongside web development, I'm also working on improving my **problem-solving and DSA skills**.
-
-Currently practicing:
+Currently improving my problem-solving skills through:
 
 `Arrays` • `Strings` • `Objects` • `Searching` • `Sorting` • `Recursion` • `Linked Lists` • `Stacks` • `Queues`
 
@@ -190,19 +184,42 @@ Currently practicing:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PawanForge&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=PawanForge&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+height="170"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanForge&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanForge&layout=compact&theme=tokyonight&hide_border=true"
+height="170"
+/>
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=PawanForge&theme=tokyonight&hide_border=true"/>
+<img
+src="https://streak-stats.demolab.com?user=PawanForge&theme=tokyonight&hide_border=true"
+/>
+
+</div>
+
+> 🟢 **Keep building, committing and contributing consistently to grow your GitHub contribution streak.**
+
+---
+
+# 🐍 Contribution Graph
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/PawanForge/PawanForge/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Snake"
+/>
 
 </div>
 
@@ -237,8 +254,6 @@ Currently practicing:
 ---
 
 # 📫 Let's Connect
-
-I'm always interested in learning, building and collaborating with other developers.
 
 <div align="center">
 
