@@ -170,10 +170,11 @@ Currently improving my problem-solving skills through:
 
 🔥 GitHub Contribution Streak
 
-<div align="center"><img
-src="https://streak-stats.demolab.com/?user=PawanForge&theme=tokyonight&hide_border=true"
+<img
+src="https://github-readme-streak-stats-eight.vercel.app/?user=PawanForge&theme=tokyonight&hide_border=true"
 alt="PawanForge GitHub Contribution Streak"
 />
+
 
 </div><p align="center">🔥 Keep coding • Keep contributing • Keep improving
 
