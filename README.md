@@ -13,12 +13,12 @@ Building modern, responsive and user-focused web applications.
 src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Future+Full+Stack+Developer;React+Developer;JavaScript+Enthusiast;Building+Real+World+Projects;Learning+Node.js+%26+MongoDB;DSA+%26+Problem+Solving;Open+Source+Learner"
 />
 
-<br/><a href="https://github.com/PawanForge">
-<img src="https://img.shields.io/badge/GitHub-PawanForge-181717?style=for-the-badge&logo=github" />
+<br/><br/>
+
+<a href="https://github.com/PawanForge">
+<img src="https://img.shields.io/badge/GitHub-PawanForge-181717?style=for-the-badge&logo=github"/>
 </a><a href="https://www.linkedin.com/in/pawan-kumar-yadav-4b17aa322">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a><a href="https://www.instagram.com/pawannn__yadavy/">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a><br/><br/>
 
 <img
@@ -27,13 +27,19 @@ src="https://komarev.com/ghpvc/?username=PawanForge&label=PROFILE%20VIEWS&color=
 
 </div>---
 
-🚀 About Me
+🎯 My Goal
+
+«🚀 Become a skilled Full Stack Web Developer by learning modern technologies, building real-world projects, improving problem-solving skills and contributing to open source.»
+
+---
+
+👨‍💻 About Me
 
 I'm a Web Developer in progress from India 🇮🇳, passionate about building clean, responsive and user-friendly web applications.
 
 I started my journey with frontend development and I'm currently expanding my skills toward Full Stack Web Development.
 
-I enjoy learning by building real-world projects, solving problems and continuously improving my coding skills.
+I enjoy learning by building projects, solving problems and continuously improving my coding skills.
 
 const pawan = {
     name: "Pawan Kumar Yadav",
@@ -87,15 +93,15 @@ const pawan = {
 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite"/>
 </p>⚙️ Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
 </p>🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm"/>
 </p>---
 
 🚀 My Projects
@@ -142,8 +148,6 @@ Tech: HTML • CSS • JavaScript
 
 📚 Currently Learning
 
-I'm currently focusing on becoming a Full Stack Web Developer.
-
 - ⚛️ Advanced React
 - 🟢 Node.js
 - 🚂 Express.js
@@ -164,48 +168,21 @@ Currently improving my problem-solving skills through:
 
 ---
 
-📊 GitHub Statistics
-
-<div align="center"><img
-src="https://github-readme-stats.vercel.app/api?username=PawanForge&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-height="180"
-alt="PawanForge GitHub Stats"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanForge&layout=compact&theme=tokyonight&hide_border=true"
-height="180"
-alt="PawanForge Top Languages"
-/>
-
-</div>---
-
 🔥 GitHub Contribution Streak
 
 <div align="center"><img
 src="https://streak-stats.demolab.com/?user=PawanForge&theme=tokyonight&hide_border=true"
 alt="PawanForge GitHub Contribution Streak"
-width="70%"
 />
 
-</div><p align="center">
-🔥 Keep coding • Keep contributing • Keep improving
+</div><p align="center">🔥 Keep coding • Keep contributing • Keep improving
+
 </p>---
-
-📈 Contribution Activity
-
-<div align="center"><img
-src="https://github-readme-activity-graph.vercel.app/graph?username=PawanForge&bg_color=0d1117&color=00F7FF&line=007CF0&point=ffffff&area=true&hide_border=true"
-alt="PawanForge GitHub Contribution Activity"
-width="95%"
-/>
-
-</div>---
 
 🎯 2026 Goals
 
 - 🚀 Become job-ready as a Full Stack Developer
-- ⚛️ Master React and modern frontend development
+- ⚛️ Improve React and modern frontend development
 - 🟢 Build strong Node.js & Express.js skills
 - 🍃 Learn MongoDB deeply
 - 🔗 Build real-world REST APIs
@@ -246,18 +223,16 @@ I'm continuously learning how to contribute to open-source projects.
 📫 Let's Connect
 
 <div align="center"><a href="https://github.com/PawanForge">
-<img src="https://img.shields.io/badge/GitHub-PawanForge-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-PawanForge-181717?style=for-the-badge&logo=github"/>
 </a><a href="https://www.linkedin.com/in/pawan-kumar-yadav-4b17aa322">
-<img src="https://img.shields.io/badge/LinkedIn-Pawan%20Kumar%20Yadav-0A66C2?style=for-the-badge&logo=linkedin" />
-</a><a href="https://www.instagram.com/pawannn__yadavy/">
-<img src="https://img.shields.io/badge/Instagram-pawannn__yadavy-E4405F?style=for-the-badge&logo=instagram" />
+<img src="https://img.shields.io/badge/LinkedIn-Pawan%20Kumar%20Yadav-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a></div>---
 
 <div align="center">🚀 Learn • Build • Improve • Contribute
 
 ⭐ Thanks for visiting my profile!
 
-<br/><img
+</div><div align="center"><img
 src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"
 width="100%"
 />
