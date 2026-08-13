@@ -53,13 +53,13 @@ I'm a **Web Developer in progress from India 🇮🇳**, passionate about buildi
 
 I started my journey with frontend development and I'm now expanding my skills toward **Full Stack Development**.
 
-I enjoy learning by building projects and solving problems with code.
+I enjoy learning by building projects, solving problems and continuously improving my coding skills.
 
 ```javascript
 const pawan = {
     name: "Pawan Kumar Yadav",
     location: "India 🇮🇳",
-    goal: "Become a Full Stack Web Developer",
+    role: "Future Full Stack Web Developer",
 
     frontend: [
         "HTML",
@@ -83,7 +83,18 @@ const pawan = {
         "Postman",
         "Figma",
         "npm"
-    ]
+    ],
+
+    currentlyLearning: [
+        "Advanced React",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "REST APIs",
+        "DSA"
+    ],
+
+    goal: "Become a skilled Full Stack Developer"
 };
 ```
 
@@ -113,6 +124,8 @@ const pawan = {
 
 # 📚 Currently Learning
 
+I'm currently focusing on becoming a **Full Stack Web Developer**.
+
 * ⚛️ Advanced React
 * 🟢 Node.js
 * 🚂 Express.js
@@ -127,44 +140,54 @@ const pawan = {
 
 # 🚀 My Projects
 
+Projects I've built while learning and improving my development skills.
+
 ### 🧠 Quiz App
 
 **HTML • CSS • JavaScript**
 
-Interactive quiz application with questions, answers and score tracking.
+An interactive quiz application with questions, answers and score tracking.
+
+---
 
 ### ⚖️ BMI Calculator
 
 **HTML • CSS • JavaScript**
 
-Simple BMI calculator that calculates BMI based on height and weight.
+A simple BMI calculator that calculates BMI based on height and weight.
+
+---
 
 ### ❌⭕ Tic Tac Toe
 
 **HTML • CSS • JavaScript**
 
-Interactive two-player Tic Tac Toe game built with JavaScript.
+An interactive two-player Tic Tac Toe game built with JavaScript.
+
+---
 
 ### 💰 Expense Tracker
 
 **HTML • CSS • JavaScript**
 
-Application for adding, managing and tracking daily expenses.
+A simple application for adding, managing and tracking daily expenses.
+
+---
 
 ### 🌐 Portfolio Website
 
 **React • JavaScript • Tailwind CSS**
 
-Personal portfolio website to showcase my skills, projects and development journey.
+A personal portfolio website to showcase my skills, projects and development journey.
 
 ---
 
 # 🤝 Open Source & Contributions
 
-I'm learning and exploring the world of **Open Source** and actively improving my GitHub workflow.
+I'm learning and exploring the world of **Open Source** while improving my GitHub workflow.
 
 * 🌱 Exploring open-source projects
-* 🐛 Working with issues and bug fixing
+* 🐛 Learning issue fixing
 * 🔀 Learning Pull Requests
 * 💻 Improving Git & GitHub skills
 * 🤝 Collaborating with other developers
@@ -202,24 +225,39 @@ height="170"
 
 <div align="center">
 
+<a href="https://github.com/PawanForge">
+
 <img
 src="https://streak-stats.demolab.com?user=PawanForge&theme=tokyonight&hide_border=true"
+alt="PawanForge GitHub Streak"
 />
+
+</a>
 
 </div>
 
-> 🟢 **Keep building, committing and contributing consistently to grow your GitHub contribution streak.**
-
 ---
 
-# 🐍 Contribution Graph
+# 🐍 GitHub Contribution Graph
 
 <div align="center">
 
 <img
-src="https://raw.githubusercontent.com/PawanForge/PawanForge/output/github-contribution-grid-snake.svg"
+src="https://raw.githubusercontent.com/PawanForge/pawanForge/output/github-contribution-grid-snake.svg"
 alt="GitHub Contribution Snake"
 />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/PawanForge">
+<img
+src="https://img.shields.io/badge/VIEW%20MY%20GITHUB%20CONTRIBUTIONS-00F7FF?style=for-the-badge&logo=github&logoColor=black"
+/>
+</a>
 
 </div>
 
@@ -228,10 +266,11 @@ alt="GitHub Contribution Snake"
 # 🎯 2026 Goals
 
 * 🚀 Become job-ready as a Full Stack Developer
-* ⚛️ Master React
+* ⚛️ Improve and master React
 * 🟢 Build strong Node.js & Express.js skills
 * 🍃 Learn MongoDB deeply
-* 🧠 Improve DSA and problem solving
+* 🔗 Build and consume REST APIs
+* 🧠 Improve DSA and problem-solving
 * 🤝 Make meaningful open-source contributions
 * 💻 Build more real-world projects
 * 🌐 Deploy production-ready applications
@@ -243,7 +282,7 @@ alt="GitHub Contribution Snake"
 ```text
 🌐 Modern Web Applications
 ⚛️ React Applications
-🟢 Node.js Backend Applications
+🟢 Node.js Applications
 🔗 REST APIs
 📱 Responsive Websites
 🧠 Problem Solving Projects
