@@ -33,6 +33,7 @@ I love learning new technologies, solving problems and turning ideas into real-w
 * 🍃 MongoDB
 * 🎨 Responsive Web Design
 * 🔧 Git & GitHub
+* 🧠 Data Structures & Algorithms
 * 🚀 Real-World Projects
 * 🌱 Continuous Learning
 
@@ -52,6 +53,10 @@ I love learning new technologies, solving problems and turning ideas into real-w
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Technologies"/>
 
+### ☕ Programming & DSA
+
+<img src="https://skillicons.dev/icons?i=java" alt="Java"/>
+
 ### 🔧 Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
@@ -62,9 +67,17 @@ I love learning new technologies, solving problems and turning ideas into real-w
 
 ## 🚀 Featured Projects
 
+My repositories showcase my hands-on practice and working skills across **frontend development, backend development, responsive UI, version control, and problem solving**.
+
+---
+
 ### 🔹 Backend Workspace
 
-Backend development workspace containing Node.js, Express and backend development projects.
+A backend development workspace focused on building server-side applications, APIs and backend functionality using modern JavaScript technologies.
+
+**🛠️ Working Skills:**
+
+`Node.js` • `Express.js` • `REST APIs` • `Backend Development` • `JavaScript`
 
 <div align="center">
 
@@ -78,7 +91,11 @@ Backend development workspace containing Node.js, Express and backend developmen
 
 ### 🔹 Frontend Workspace
 
-Frontend development workspace containing web development practice and projects.
+A frontend development workspace containing practical work focused on creating interactive, responsive and user-friendly web interfaces.
+
+**🛠️ Working Skills:**
+
+`HTML` • `CSS` • `JavaScript` • `React` • `Frontend Development`
 
 <div align="center">
 
@@ -92,7 +109,11 @@ Frontend development workspace containing web development practice and projects.
 
 ### 🔹 Frontend Project
 
-Frontend-focused web development projects built while learning and experimenting with modern web technologies.
+A collection of frontend projects built to practice and improve modern web development, UI implementation and responsive design.
+
+**🛠️ Working Skills:**
+
+`HTML` • `CSS` • `JavaScript` • `React` • `Responsive Design`
 
 <div align="center">
 
@@ -104,9 +125,49 @@ Frontend-focused web development projects built while learning and experimenting
 
 ---
 
+### 🔹 Tailwind CSS
+
+A dedicated repository for learning and practicing **Tailwind CSS**, with a focus on building clean, modern and responsive user interfaces.
+
+**🛠️ Working Skills:**
+
+`Tailwind CSS` • `Responsive UI` • `Utility-First CSS` • `Modern Web Design`
+
+<div align="center">
+
+<a href="https://github.com/PawanForge/tailwind-css">
+  <img src="https://img.shields.io/badge/🔗_View_tailwind--css-181717?style=for-the-badge&logo=github" alt="Tailwind CSS"/>
+</a>
+
+</div>
+
+---
+
+### 🔹 Git Commands
+
+A practical repository for learning and practicing commonly used **Git commands, workflows and version-control concepts**.
+
+**🛠️ Working Skills:**
+
+`Git` • `GitHub` • `Version Control` • `Git Commands` • `Repository Management`
+
+<div align="center">
+
+<a href="https://github.com/PawanForge/git-cammands">
+  <img src="https://img.shields.io/badge/🔗_View_git--cammands-181717?style=for-the-badge&logo=github" alt="Git Commands"/>
+</a>
+
+</div>
+
+---
+
 ### 🔹 DSA Java
 
-Data Structures and Algorithms practice using Java.
+A Data Structures and Algorithms practice repository focused on improving programming fundamentals, logical thinking and problem-solving skills using Java.
+
+**🛠️ Working Skills:**
+
+`Java` • `Data Structures` • `Algorithms` • `Problem Solving` • `DSA`
 
 <div align="center">
 
@@ -167,7 +228,9 @@ alt="Keep Coding Keep Growing"
 * ⚛️ Improve React and frontend development
 * 🟢 Build better backend APIs
 * 🗄️ Improve database and backend architecture
+* 🎨 Create modern and responsive user interfaces
 * 🧠 Strengthen DSA and problem-solving skills
+* 🔧 Improve Git and GitHub workflow
 * 🤝 Contribute to open-source projects
 * 📈 Continuously improve as a developer
 
