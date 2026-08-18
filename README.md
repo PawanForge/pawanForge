@@ -1,39 +1,40 @@
-<div align="center"><img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=220&section=header&text=Pawan%20Kumar%20Yadav&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Future%20Full%20Stack%20Web%20Developer%20%7C%20India&descAlignY=58&descSize=20"
-width="100%"
-/>
+<div align="center">
 
-👋 Hi, I'm Pawan Kumar Yadav
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=220&section=header&text=Pawan%20Kumar%20Yadav&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Future%20Full%20Stack%20Web%20Developer%20%7C%20India&descAlignY=58&descSize=20" width="100%"/>
 
-💻 Future Full Stack Web Developer 🇮🇳
+# 👋 Hi, I'm Pawan Kumar Yadav
 
-<p>
-Building modern, responsive and user-focused web applications.
-</p><img
-src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Future+Full+Stack+Developer;React+Developer;JavaScript+Enthusiast;Building+Real+World+Projects;Learning+Node.js+%26+MongoDB;DSA+%26+Problem+Solving;Open+Source+Learner"
-/>
+### 💻 Future Full Stack Web Developer 🇮🇳
 
-<br/><br/>
+<p>Building modern, responsive and user-focused web applications.</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Future+Full+Stack+Developer;React+Developer;JavaScript+Enthusiast;Building+Real+World+Projects;Learning+Node.js+%26+MongoDB;DSA+%26+Problem+Solving;Open+Source+Learner" />
+
+<br><br>
 
 <a href="https://github.com/PawanForge">
 <img src="https://img.shields.io/badge/GitHub-PawanForge-181717?style=for-the-badge&logo=github"/>
-</a><a href="https://www.linkedin.com/in/pawan-kumar-yadav-4b17aa322">
+</a>
+
+<a href="https://www.linkedin.com/in/pawan-kumar-yadav-4b17aa322">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a><br/><br/>
+</a>
 
-<img
-src="https://komarev.com/ghpvc/?username=PawanForge&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge"
-/>
+<br><br>
 
-</div>---
+<img src="https://komarev.com/ghpvc/?username=PawanForge&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge"/>
 
-🎯 My Goal
-
-«🚀 Become a skilled Full Stack Web Developer by learning modern technologies, building real-world projects, improving problem-solving skills and contributing to open source.»
+</div>
 
 ---
 
-👨‍💻 About Me
+## 🎯 My Goal
+
+> 🚀 Become a skilled Full Stack Web Developer by learning modern technologies, building real-world projects, improving problem-solving skills and contributing to open source.
+
+---
+
+## 👨‍💻 About Me
 
 I'm a Web Developer in progress from India 🇮🇳, passionate about building clean, responsive and user-friendly web applications.
 
@@ -41,6 +42,7 @@ I started my journey with frontend development and I'm currently expanding my sk
 
 I enjoy learning by building projects, solving problems and continuously improving my coding skills.
 
+```javascript
 const pawan = {
     name: "Pawan Kumar Yadav",
     location: "India 🇮🇳",
@@ -84,7 +86,10 @@ const pawan = {
     mindset: "Learn → Build → Improve → Repeat"
 };
 
-«💡 I don't just want to write code — I want to build things that are useful.»
+> 💡 I don't just want to write code — I want to build things that are useful.
+
+
+
 
 ---
 
@@ -102,7 +107,8 @@ const pawan = {
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm"/>
-</p>---
+</p>
+---
 
 🚀 My Projects
 
@@ -112,6 +118,7 @@ An interactive quiz application for learning and self-assessment.
 
 Tech: React
 
+
 ---
 
 💊 Medicine Reminder
@@ -119,6 +126,7 @@ Tech: React
 A simple application for managing important medicine schedules.
 
 Tech: HTML • CSS • JavaScript
+
 
 ---
 
@@ -128,6 +136,7 @@ A lightweight application for calculating BMI from user input.
 
 Tech: React
 
+
 ---
 
 ❌⭕ Tic Tac Toe
@@ -135,6 +144,7 @@ Tech: React
 An interactive two-player Tic Tac Toe game built with JavaScript.
 
 Tech: HTML • CSS • JavaScript
+
 
 ---
 
@@ -144,19 +154,30 @@ A simple application for adding, managing and tracking daily expenses.
 
 Tech: HTML • CSS • JavaScript
 
+
 ---
 
 📚 Currently Learning
 
-- ⚛️ Advanced React
-- 🟢 Node.js
-- 🚂 Express.js
-- 🍃 MongoDB
-- 🔗 REST APIs
-- 🔐 Authentication & Authorization
-- 🧠 Data Structures & Algorithms
-- 🤝 Open Source Contribution
-- 🚀 Deployment & Production Development
+⚛️ Advanced React
+
+🟢 Node.js
+
+🚂 Express.js
+
+🍃 MongoDB
+
+🔗 REST APIs
+
+🔐 Authentication & Authorization
+
+🧠 Data Structures & Algorithms
+
+🤝 Open Source Contribution
+
+🚀 Deployment & Production Development
+
+
 
 ---
 
@@ -164,34 +185,46 @@ Tech: HTML • CSS • JavaScript
 
 Currently improving my problem-solving skills through:
 
-"Arrays" • "Strings" • "Objects" • "Searching" • "Sorting" • "Recursion" • "Linked Lists" • "Stacks" • "Queues"
+Arrays • Strings • Objects • Searching • Sorting • Recursion • Linked Lists • Stacks • Queues
+
 
 ---
 
 🔥 GitHub Contribution Streak
 
-<img
-src="https://github-readme-streak-stats-eight.vercel.app/?user=PawanForge&theme=tokyonight&hide_border=true"
-alt="PawanForge GitHub Contribution Streak"
-/>
+<div align="center"><img src="https://streak-stats.demolab.com?user=PawanForge&theme=tokyonight&hide_border=true" alt="PawanForge GitHub Contribution Streak"/></div>
+---
 
+📊 GitHub Stats
 
-</div><p align="center">🔥 Keep coding • Keep contributing • Keep improving
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=PawanForge&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="PawanForge GitHub Stats"/><br><br>
 
-</p>---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanForge&layout=compact&theme=tokyonight&hide_border=true" alt="PawanForge Top Languages"/></div>
+---
 
 🎯 2026 Goals
 
-- 🚀 Become job-ready as a Full Stack Developer
-- ⚛️ Improve React and modern frontend development
-- 🟢 Build strong Node.js & Express.js skills
-- 🍃 Learn MongoDB deeply
-- 🔗 Build real-world REST APIs
-- 🔐 Learn authentication and authorization
-- 🧠 Improve DSA and problem-solving
-- 🤝 Make meaningful open-source contributions
-- 💻 Build more real-world projects
-- 🌐 Learn deployment and production development
+🚀 Become job-ready as a Full Stack Developer
+
+⚛️ Improve React and modern frontend development
+
+🟢 Build strong Node.js & Express.js skills
+
+🍃 Learn MongoDB deeply
+
+🔗 Build real-world REST APIs
+
+🔐 Learn authentication and authorization
+
+🧠 Improve DSA and problem-solving
+
+🤝 Make meaningful open-source contributions
+
+💻 Build more real-world projects
+
+🌐 Learn deployment and production development
+
+
 
 ---
 
@@ -199,25 +232,41 @@ alt="PawanForge GitHub Contribution Streak"
 
 I'm continuously learning how to contribute to open-source projects.
 
-- 🌱 Explore open-source projects
-- 🐛 Learn issue fixing
-- 🔀 Practice Pull Requests
-- 💻 Improve Git & GitHub workflow
-- 🤝 Collaborate with other developers
-- 🚀 Contribute to real-world projects
+🌱 Explore open-source projects
+
+🐛 Learn issue fixing
+
+🔀 Practice Pull Requests
+
+💻 Improve Git & GitHub workflow
+
+🤝 Collaborate with other developers
+
+🚀 Contribute to real-world projects
+
+
 
 ---
 
 💡 What I Love Building
 
 🌐 Modern Web Applications
+
 ⚛️ React Applications
+
 🟢 Node.js Applications
+
 🔗 REST APIs
+
 📱 Responsive Websites
+
 🧠 Problem Solving Projects
+
 🚀 Real-World Projects
+
 🤝 Open Source Projects
+
+
 
 ---
 
@@ -227,15 +276,12 @@ I'm continuously learning how to contribute to open-source projects.
 <img src="https://img.shields.io/badge/GitHub-PawanForge-181717?style=for-the-badge&logo=github"/>
 </a><a href="https://www.linkedin.com/in/pawan-kumar-yadav-4b17aa322">
 <img src="https://img.shields.io/badge/LinkedIn-Pawan%20Kumar%20Yadav-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a></div>---
+</a></div>
+---
 
 <div align="center">🚀 Learn • Build • Improve • Contribute
 
 ⭐ Thanks for visiting my profile!
 
-</div><div align="center"><img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"
-width="100%"
-/>
-
-</div>
+</div><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer" width="100%"/></div>
+```
