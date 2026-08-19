@@ -183,14 +183,10 @@ A Data Structures and Algorithms practice repository focused on improving progra
 
 <div align="center">
 
-<a href="https://github.com/PawanForge">
-
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=PawanForge&theme=tokyonight&hide_border=true"
+  src="https://streak-stats.demolab.com/?user=PawanForge&theme=tokyonight&hide_border=true"
   alt="PawanForge GitHub Contribution Streak"
 />
-
-</a>
 
 </div>
 
