@@ -186,18 +186,56 @@ A Data Structures and Algorithms practice repository focused on improving progra
 <a href="https://github.com/PawanForge">
 
 <img
-src="https://streak-stats.demolab.com/?user=PawanForge&theme=tokyonight&hide_border=true"
+src="https://streak-stats.demolab.com?user=PawanForge&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF"
 alt="PawanForge GitHub Contribution Streak"
+/>
+
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Contribution Graph
+
+<div align="center">
+
+<a href="https://github.com/PawanForge">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=PawanForge&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true"
+alt="PawanForge GitHub Contribution Graph"
+/>
+
+</a>
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/PawanForge">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=PawanForge&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&count_private=true"
+alt="PawanForge GitHub Stats"
 />
 
 </a>
 
 <br><br>
 
+<a href="https://github.com/PawanForge">
+
 <img
-src="https://img.shields.io/badge/🔥_Keep_Coding_Keep_Growing-181717?style=for-the-badge&logo=github"
-alt="Keep Coding Keep Growing"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanForge&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"
+alt="PawanForge Top Languages"
 />
+
+</a>
 
 </div>
 
@@ -290,6 +328,13 @@ alt="Keep Coding Keep Growing"
 ### ⭐ If you like my work, consider giving my repositories a star!
 
 <br>
+
+<img
+src="https://img.shields.io/badge/🔥_Keep_Coding_Keep_Growing-181717?style=for-the-badge&logo=github"
+alt="Keep Coding Keep Growing"
+/>
+
+<br><br>
 
 **Thanks for visiting my profile! 🚀**
 
