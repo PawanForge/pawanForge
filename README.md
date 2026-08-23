@@ -204,18 +204,90 @@ alt="PawanForge GitHub Contribution Graph"
 
 </div>
 
-## 📈 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PawanForge&show_icons=true&theme=tokyonight&hide_border=true" alt="PawanForge GitHub Stats">
+## 🛰️ DEVELOPER RADAR
 
-<br><br>
+<p><i>Things currently on my radar — building, exploring & mastering.</i></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanForge&layout=compact&theme=tokyonight&hide_border=true" alt="PawanForge Top Languages">
+<br>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🔨
+
+### BUILDING
+
+**Real Projects**
+
+Turning ideas into useful software.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+### LEARNING
+
+**New Skills**
+
+Going deeper into modern technologies.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧪
+
+### EXPLORING
+
+**New Ideas**
+
+Experimenting with different approaches.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+### SHIPPING
+
+**Useful Things**
+
+Building → Testing → Deploying.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 📡 SIGNAL
+
+```text
+BUILD       ███████████████████░░   90%
+LEARNING    ████████████████░░░░░   80%
+EXPLORING   █████████████████░░░░   85%
+EXPERIMENT  ██████████████░░░░░░░   70%
+```
+
+<br>
+
+### ⚡ CURRENT MINDSET
+
+`Think Different`  `Build Better`  `Learn Constantly`  `Ship Often`
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-00C853?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/MODE-EXPLORING-7C3AED?style=for-the-badge">
+<img src="https://img.shields.io/badge/FOCUS-INNOVATION-2563EB?style=for-the-badge">
 
 </div>
-
 
 ## 📚 Currently Learning
 
