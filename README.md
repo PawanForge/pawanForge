@@ -210,18 +210,14 @@ alt="PawanForge GitHub Contribution Graph"
 
 <div align="center">
 
-<a href="https://github.com/PawanForge">
-<img src="https://github-readme-stats.vercel.app/api?username=PawanForge&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="PawanForge GitHub Stats" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=PawanForge&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
 <br><br>
 
-<a href="https://github.com/PawanForge">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanForge&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" alt="PawanForge Top Languages" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanForge&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
-s
+
 ---
 
 ## 📚 Currently Learning
