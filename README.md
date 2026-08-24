@@ -183,11 +183,9 @@ A Data Structures and Algorithms practice repository focused on improving progra
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=PawanForge&theme=tokyonight&hide_border=true" alt="PawanForge GitHub Contribution Streak" />
+<img width="500" src="https://streak-stats.demolab.com?user=PawanForge&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
-
----
 
 ## 📊 GitHub Contribution Graph
 
