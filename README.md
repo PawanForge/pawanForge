@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm **Pawan Kumar Yadav**
 
-### Full Stack Web Developer
+### 🚀 Full Stack Web Developer
 
 **JavaScript · React · Node.js · Express · MongoDB**
 
-Building practical web applications, learning modern technologies, and continuously improving through real-world projects.
+Building practical web applications, learning modern technologies, and improving every day through real-world projects.
 
 <br/>
 
@@ -50,25 +50,25 @@ I enjoy turning ideas into working products, solving development problems, and c
 
 <div align="center">
 
-### Frontend
+### 🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Technologies"/>
 
 <br/><br/>
 
-### Backend & Database
+### ⚙️ Backend & Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Technologies"/>
 
 <br/><br/>
 
-### Programming & Problem Solving
+### ☕ Programming & DSA
 
 <img src="https://skillicons.dev/icons?i=java" alt="Java"/>
 
 <br/><br/>
 
-### Tools & Development
+### 🔧 Tools & Development
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
 
@@ -168,15 +168,35 @@ A Data Structures and Algorithms practice repository focused on strengthening pr
 
 <div align="center">
 
-<img width="500" src="https://streak-stats.demolab.com?user=PawanForge&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+### 🔥 Contribution Streak
+
+<img
+width="500"
+src="https://streak-stats.demolab.com?user=PawanForge&theme=tokyonight&hide_border=true"
+alt="PawanForge GitHub Contribution Streak"
+/>
 
 <br/><br/>
 
+### 📈 Contribution Graph
+
 <a href="https://github.com/PawanForge">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PawanForge&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" alt="PawanForge GitHub Contribution Graph"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=PawanForge&theme=tokyo-night&hide_border=true&area=true&custom_title=PawanForge%20Contribution%20Graph"
+alt="PawanForge GitHub Contribution Graph"
+/>
 
 </a>
+
+<br/><br/>
+
+### 🟩 Contribution Calendar
+
+<img
+src="https://ghchart.rshah.org/00F7FF/PawanForge"
+alt="PawanForge GitHub Contributions"
+/>
 
 </div>
 
@@ -186,7 +206,7 @@ A Data Structures and Algorithms practice repository focused on strengthening pr
 
 <div align="center">
 
-> **Building · Learning · Exploring · Shipping**
+> **BUILDING · LEARNING · EXPLORING · SHIPPING**
 
 <br/>
 
@@ -229,7 +249,7 @@ New ideas & approaches
 
 **SHIPPING**
 
-Useful & practical software
+Useful software
 
 </td>
 
@@ -238,7 +258,7 @@ Useful & practical software
 
 <br/>
 
-### 📡 Current Focus
+### 📡 CURRENT FOCUS
 
 ```text
 FULL STACK DEVELOPMENT    ███████████████████░░   90%
@@ -358,7 +378,10 @@ Consider giving my repositories a star — it really helps!
 
 <br/>
 
-<img src="https://img.shields.io/badge/🔥_KEEP_CODING_·_KEEP_GROWING-181717?style=for-the-badge&logo=github" alt="Keep Coding Keep Growing"/>
+<img
+src="https://img.shields.io/badge/🔥_KEEP_CODING_·_KEEP_GROWING-181717?style=for-the-badge&logo=github"
+alt="Keep Coding Keep Growing"
+/>
 
 <br/><br/>
 
