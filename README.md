@@ -163,32 +163,31 @@ A Data Structures and Algorithms practice repository focused on strengthening pr
 </a>      
       
 ---      
-      
-## 📊 GitHub Activity      
-      
-<div align="center">      
-      
-### 🔥 Contribution Streak      
-      
-<img      
-width="500"      
-src="https://streak-stats.demolab.com?user=PawanForge&theme=tokyonight&hide_border=true"      
-alt="PawanForge GitHub Contribution Streak"      
-/>      
-      
-<br/><br/>      
-      
-### 📈 Contribution Graph      
-      
-<a href="https://github.com/PawanForge">      
-      
-<img      
-src="https://github-readme-activity-graph.vercel.app/graph?username=PawanForge&theme=tokyo-night&hide_border=true&area=true&custom_title=PawanForge%20Contribution%20Graph"      
-alt="PawanForge GitHub Contribution Graph"      
-/>      
-      
-</a>      
-      
+## 📊 GitHub Activity
+
+<div align="center">
+
+### 🔥 Contribution Streak
+
+<img
+  src="./profile/streak.svg"
+  width="500"
+  alt="PawanForge GitHub Contribution Streak"
+/>
+
+<br/><br/>
+
+### 📈 Contribution Graph
+
+<img
+  src="./profile/contributions.svg"
+  width="850"
+  alt="PawanForge GitHub Contribution Graph"
+/>
+
+</div>
+         
+
 <br/><br/>      
       
 ### 🟩 Contribution Calendar      
