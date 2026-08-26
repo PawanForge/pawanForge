@@ -3,6 +3,9 @@ name: Update GitHub Activity
 on:
   schedule:
     - cron: "0 3 * * *"
+  push:
+    paths:
+      - ".github/workflows/github-stats.yml"
   workflow_dispatch:
 
 permissions:
@@ -19,21 +22,17 @@ jobs:
       - name: Generate contribution streak
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          user: ${{ github.repository_owner }}
-          theme: tokyo-night
-          hide_border: true
-          disable_animations: true
+          options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&disable_animations=true
           path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit updated stats
+      - name: Commit streak stats
         run: |
-          mkdir -p profile
-
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add profile/
+          git add profile/streak.svg
 
-          git diff --cached --quiet || git commit -m "Update GitHub activity"
+          git diff --cached --quiet || git commit -m "Update streak stats"
 
           git push
