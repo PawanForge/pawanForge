@@ -1,174 +1,183 @@
-<div align="center">
+<div align="center">👋 Hi, I'm Pawan Kumar Yadav
 
-# 👋 Hi, I'm **Pawan Kumar Yadav**
+🚀 Full Stack Web Developer
 
-### 🚀 Full Stack Web Developer
+JavaScript · React · Node.js · Express.js · MongoDB
 
-**JavaScript · React · Node.js · Express · MongoDB**
+Building practical web applications, exploring modern technologies, and continuously improving through hands-on projects.
 
-Building practical web applications, learning modern technologies, and improving every day through real-world projects.
-
-<br/>
-
-<a href="https://github.com/PawanForge">
+<br/><a href="https://github.com/PawanForge">
   <img src="https://img.shields.io/badge/GitHub-PawanForge-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 <a href="https://github.com/PawanForge?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-Explore-00F7FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-</a>
+</a><br/><br/>
 
-<br/><br/>
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Node.js;Building+Practical+Web+Applications;Learning+%26+Growing+Every+Day+%F0%9F%9A%80"
+alt="Typing Animation"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Node.js;Building+Real-World+Projects;Learning+%26+Growing+Every+Day+%F0%9F%9A%80" alt="Typing Animation"/>
+</div>---
 
-</div>
+👨‍💻 About Me
 
----
+I'm Pawan Kumar Yadav, a Full Stack Web Developer focused on building modern, responsive, and practical web applications.
 
-## 👨‍💻 About Me
+I enjoy turning ideas into working products, solving development problems, and learning through hands-on projects.
 
-I'm **Pawan Kumar Yadav**, a passionate **Full Stack Web Developer** focused on building modern, responsive, and practical web applications.
+💻 What I Work With
 
-I enjoy turning ideas into working products, solving development problems, and continuously improving my skills through hands-on projects.
+- ⚛️ React & Modern JavaScript
+- 🟢 Node.js & Express.js
+- 🍃 MongoDB & Backend Development
+- 🎨 Responsive & Modern UI
+- 🔧 Git & GitHub
+- 🧠 Data Structures & Algorithms
+- 🚀 Full Stack Project Development
 
-### What I Work With
-
-* 💻 Full Stack Web Development
-* ⚛️ React & Modern JavaScript
-* 🟢 Node.js & Express.js
-* 🍃 MongoDB & Backend Development
-* 🎨 Responsive & Modern UI
-* 🔧 Git & GitHub
-* 🧠 Data Structures & Algorithms
-* 🚀 Real-World Project Development
-
-> **Build with purpose. Learn continuously. Improve every day.**
+«Build with purpose. Learn continuously. Improve every day.»
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
-<div align="center">
+<div align="center">🎨 Frontend
 
-### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Technologies"/><br/><br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Technologies"/>
+⚙️ Backend & Database
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Technologies"/><br/><br/>
 
-### ⚙️ Backend & Database
+☕ Programming & DSA
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Technologies"/>
+<img src="https://skillicons.dev/icons?i=java" alt="Java"/><br/><br/>
 
-<br/><br/>
+🔧 Tools
 
-### ☕ Programming & DSA
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/></div>---
 
-<img src="https://skillicons.dev/icons?i=java" alt="Java"/>
+🚀 Featured Projects
 
-<br/><br/>
+🔹 Backend Workspace
 
-### 🔧 Tools & Development
+A backend-focused workspace for practicing server-side development, APIs, and backend functionality using JavaScript technologies.
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-A selection of repositories where I practice, experiment, and build with modern web technologies.
-
-### 🔹 Backend Workspace
-
-A backend-focused workspace for developing server-side applications, APIs, and backend functionality using JavaScript technologies.
-
-**Technologies**
-
-`Node.js` `Express.js` `REST APIs` `JavaScript` `Backend Development`
+Tech: "Node.js" "Express.js" "REST APIs" "JavaScript"
 
 <a href="https://github.com/PawanForge/Backend-workspace">
   <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="Backend Workspace"/>
-</a>
+</a>---
 
----
+🔹 Frontend Workspace
 
-### 🔹 Frontend Workspace
+A collection of frontend development exercises focused on interactive interfaces, responsive layouts, and modern web development concepts.
 
-A collection of practical frontend development work focused on interactive interfaces, responsive layouts, and modern web development concepts.
-
-**Technologies**
-
-`HTML` `CSS` `JavaScript` `React` `Responsive Design`
+Tech: "HTML" "CSS" "JavaScript" "React"
 
 <a href="https://github.com/PawanForge/frontend-workspace">
   <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="Frontend Workspace"/>
-</a>
+</a>---
 
----
+🔹 Frontend Projects
 
-### 🔹 Frontend Projects
+A collection of frontend projects created to strengthen UI development, responsive design, and JavaScript skills.
 
-A collection of frontend projects created to strengthen UI development, responsive design, and modern JavaScript skills.
-
-**Technologies**
-
-`HTML` `CSS` `JavaScript` `React` `Responsive UI`
+Tech: "HTML" "CSS" "JavaScript" "React"
 
 <a href="https://github.com/PawanForge/frontend-project">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="Frontend Project"/>
-</a>
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="Frontend Projects"/>
+</a>---
 
----
+🔹 Tailwind CSS
 
-### 🔹 Tailwind CSS
+A learning repository focused on creating clean and responsive interfaces using Tailwind CSS.
 
-A dedicated learning repository focused on building clean, responsive interfaces using the utility-first approach of Tailwind CSS.
-
-**Technologies**
-
-`Tailwind CSS` `Responsive UI` `Utility-First CSS` `Modern Web Design`
+Tech: "Tailwind CSS" "Responsive UI" "Utility-First CSS"
 
 <a href="https://github.com/PawanForge/tailwind-css">
   <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="Tailwind CSS"/>
-</a>
+</a>---
 
----
+🔹 Git Commands
 
-### 🔹 Git Commands
+A practical reference repository for learning Git commands, version control, and GitHub workflows.
 
-A practical reference repository for learning Git commands, version-control workflows, and GitHub fundamentals.
-
-**Technologies**
-
-`Git` `GitHub` `Version Control` `Git Commands`
+Tech: "Git" "GitHub" "Version Control"
 
 <a href="https://github.com/PawanForge/git-cammands">
   <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="Git Commands"/>
-</a>
+</a>---
 
----
+🔹 DSA with Java
 
-### 🔹 DSA with Java
+A Data Structures and Algorithms practice repository focused on improving programming fundamentals, logical thinking, and problem-solving skills using Java.
 
-A Data Structures and Algorithms practice repository focused on strengthening programming fundamentals, logical thinking, and problem-solving skills using Java.
-
-**Technologies**
-
-`Java` `Data Structures` `Algorithms` `Problem Solving`
+Tech: "Java" "Data Structures" "Algorithms" "Problem Solving"
 
 <a href="https://github.com/PawanForge/DSA-JAVA">
   <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="DSA Java"/>
-</a>
+</a>---
+
+📚 Currently Learning
+
+Technology| Current Focus
+⚛️ React| Component-based frontend development
+🟨 JavaScript| Modern JavaScript & application development
+🟢 Node.js| Server-side development
+🚂 Express.js| REST API development
+🍃 MongoDB| Database design & development
+🎨 Tailwind CSS| Responsive & modern UI
+🔧 Git & GitHub| Version control & collaboration
+☕ Java| DSA & problem solving
 
 ---
 
-## 📊 GitHub Activity
+🎯 Current Goals
 
-<div align="center">
+- 🚀 Build more full-stack applications
+- ⚛️ Strengthen React and modern frontend development
+- 🟢 Improve backend and REST API development
+- 🗄️ Learn better database design and architecture
+- 🎨 Build clean, responsive, and accessible interfaces
+- 🧠 Strengthen DSA and problem-solving skills
+- 🔧 Improve Git and collaborative development workflows
+- 🤝 Contribute to open-source projects
+- 📈 Keep learning and improving as a developer
 
-### 🔥 Contribution Streak
+---
+
+🔄 My Development Workflow
+
+<div align="center">       💡 IDEA
+         │
+         ▼
+      📚 LEARN
+         │
+         ▼
+      🛠️ BUILD
+         │
+         ▼
+      🧪 TEST
+         │
+         ▼
+      🐛 DEBUG
+         │
+         ▼
+     📈 IMPROVE
+         │
+         ▼
+     🚀 DEPLOY
+         │
+         ▼
+      🔥 REPEAT
+
+</div>---
+
+📊 GitHub Activity
+
+<div align="center">🔥 Contribution Streak
 
 <img
 width="500"
@@ -178,215 +187,95 @@ alt="PawanForge GitHub Contribution Streak"
 
 <br/><br/>
 
-### 📈 Contribution Graph
+📈 Contribution Graph
 
-<a href="https://github.com/PawanForge">
-
-<img
+<a href="https://github.com/PawanForge"><img
 src="https://github-readme-activity-graph.vercel.app/graph?username=PawanForge&theme=tokyo-night&hide_border=true&area=true&custom_title=PawanForge%20Contribution%20Graph"
 alt="PawanForge GitHub Contribution Graph"
 />
 
-</a>
+</a><br/><br/>
 
-<br/><br/>
-
-### 🟩 Contribution Calendar
+🟩 Contribution Calendar
 
 <img
 src="https://ghchart.rshah.org/00F7FF/PawanForge"
 alt="PawanForge GitHub Contributions"
 />
 
-</div>
+</div>---
 
----
+🛰️ Developer Radar
 
-## 🛰️ Developer Radar
+<div align="center">«BUILDING · LEARNING · EXPLORING · SHIPPING»
 
-<div align="center">
+<br/><table>
+<tr><td align="center" width="25%">🔨
 
-> **BUILDING · LEARNING · EXPLORING · SHIPPING**
+BUILDING
 
-<br/>
+Practical applications
 
-<table>
-<tr>
+</td><td align="center" width="25%">🧠
 
-<td align="center" width="25%">
-
-### 🔨
-
-**BUILDING**
-
-Real-world applications
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-
-**LEARNING**
+LEARNING
 
 Modern technologies
 
-</td>
+</td><td align="center" width="25%">🧪
 
-<td align="center" width="25%">
-
-### 🧪
-
-**EXPLORING**
+EXPLORING
 
 New ideas & approaches
 
-</td>
+</td><td align="center" width="25%">🚀
 
-<td align="center" width="25%">
-
-### 🚀
-
-**SHIPPING**
+SHIPPING
 
 Useful software
 
-</td>
+</td></tr>
+</table><br/>📡 CURRENT FOCUS
 
-</tr>
-</table>
+FULL STACK DEVELOPMENT
+REACT & JAVASCRIPT
+BACKEND DEVELOPMENT
+DSA & PROBLEM SOLVING
+MODERN UI DEVELOPMENT
 
-<br/>
-
-### 📡 CURRENT FOCUS
-
-```text
-FULL STACK DEVELOPMENT    ███████████████████░░   90%
-REACT & JAVASCRIPT        █████████████████░░░   85%
-BACKEND DEVELOPMENT       ████████████████░░░░   80%
-DSA & PROBLEM SOLVING     ███████████████░░░░░   75%
-EXPLORATION & EXPERIMENT  ██████████████░░░░░░   70%
-```
-
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-BUILDING-00C853?style=for-the-badge&logo=github" alt="Building"/>
+<br/><img src="https://img.shields.io/badge/STATUS-BUILDING-00C853?style=for-the-badge&logo=github" alt="Building"/>
 <img src="https://img.shields.io/badge/MODE-LEARNING-7C3AED?style=for-the-badge" alt="Learning"/>
-<img src="https://img.shields.io/badge/FOCUS-FULL--STACK-2563EB?style=for-the-badge" alt="Full Stack"/>
+<img src="https://img.shields.io/badge/FOCUS-FULL--STACK-2563EB?style=for-the-badge" alt="Full Stack"/></div>---
 
-</div>
+💭 Developer Mindset
 
----
+<div align="center">"Think Different" · "Build Better" · "Learn Constantly" · "Ship Often"
 
-## 📚 Currently Learning
+<br/>Code → Learn → Build → Improve → Repeat
 
-|      Technology     | Current Focus                               |
-| :-----------------: | :------------------------------------------ |
-|     ⚛️ **React**    | Component-based frontend development        |
-|  🟨 **JavaScript**  | Modern JavaScript & application development |
-|    🟢 **Node.js**   | Server-side development                     |
-|  🚂 **Express.js**  | REST API development                        |
-|    🍃 **MongoDB**   | Database design & development               |
-| 🎨 **Tailwind CSS** | Responsive & modern UI                      |
-| 🔧 **Git & GitHub** | Version control & collaboration             |
-|      ☕ **Java**     | DSA & problem solving                       |
+</div>---
 
----
+🌐 Connect With Me
 
-## 🎯 Current Goals
-
-* 🚀 Build more real-world full-stack applications
-* ⚛️ Become stronger with React and modern frontend development
-* 🟢 Design and build scalable backend APIs
-* 🗄️ Improve database design and backend architecture
-* 🎨 Create clean, responsive, and accessible interfaces
-* 🧠 Strengthen DSA and problem-solving skills
-* 🔧 Improve Git and collaborative development workflows
-* 🤝 Contribute to open-source projects
-* 📈 Continuously improve as a software developer
-
----
-
-## 🔄 My Development Workflow
-
-<div align="center">
-
-```text
-        💡 IDEA
-          │
-          ▼
-       📚 LEARN
-          │
-          ▼
-       🛠️ BUILD
-          │
-          ▼
-       🧪 TEST
-          │
-          ▼
-       🐛 DEBUG
-          │
-          ▼
-      📈 IMPROVE
-          │
-          ▼
-      🚀 DEPLOY
-          │
-          ▼
-       🔥 REPEAT
-```
-
-</div>
-
----
-
-## 💭 Developer Mindset
-
-<div align="center">
-
-### `Think Different` · `Build Better` · `Learn Constantly` · `Ship Often`
-
-<br/>
-
-**Code → Learn → Build → Improve → Repeat**
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/PawanForge">
+<div align="center"><a href="https://github.com/PawanForge">
   <img src="https://img.shields.io/badge/GitHub-PawanForge-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-
-<a href="https://github.com/PawanForge?tab=repositories">
+</a><a href="https://github.com/PawanForge?tab=repositories">
   <img src="https://img.shields.io/badge/🚀_All_Repositories-00F7FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-</a>
+</a></div>---
 
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Enjoyed my work?
+<div align="center">⭐ Enjoyed my work?
 
 Consider giving my repositories a star — it really helps!
 
-<br/>
-
-<img
+<br/><img
 src="https://img.shields.io/badge/🔥_KEEP_CODING_·_KEEP_GROWING-181717?style=for-the-badge&logo=github"
 alt="Keep Coding Keep Growing"
 />
 
 <br/><br/>
 
-**Thanks for visiting my profile!**
+Thanks for visiting my profile!
 
-### 🚀 Keep Building. Keep Learning. Keep Growing.
+🚀 Keep Building. Keep Learning. Keep Growing.
 
 </div>
