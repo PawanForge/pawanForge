@@ -13,14 +13,17 @@ Building practical web applications, learning modern technologies, and improving
 <a href="https://github.com/PawanForge">
   <img src="https://img.shields.io/badge/GitHub-PawanForge-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/PawanForge?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-Explore-00F7FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Node.js;Building+Real-World+Projects;Learning+%26+Growing+Every+Day+%F0%9F%9A%80" alt="Typing Animation"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Node.js;Building+Real-World+Projects;Learning+%26+Growing+Every+Day+%F0%9F%9A%80"
+alt="Typing Animation"
+/>
 
 </div>
 
@@ -53,25 +56,37 @@ I enjoy turning ideas into working products, solving development problems, and c
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Technologies"/>
+<img
+src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"
+alt="Frontend Technologies"
+/>
 
 <br/><br/>
 
 ### ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Technologies"/>
+<img
+src="https://skillicons.dev/icons?i=nodejs,express,mongodb"
+alt="Backend Technologies"
+/>
 
 <br/><br/>
 
 ### ☕ Programming & DSA
 
-<img src="https://skillicons.dev/icons?i=java" alt="Java"/>
+<img
+src="https://skillicons.dev/icons?i=java"
+alt="Java"
+/>
 
 <br/><br/>
 
 ### 🔧 Tools & Development
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
+<img
+src="https://skillicons.dev/icons?i=git,github,vscode"
+alt="Development Tools"
+/>
 
 </div>
 
@@ -90,7 +105,10 @@ A backend-focused workspace for developing server-side applications, APIs, and b
 `Node.js` `Express.js` `REST APIs` `JavaScript` `Backend Development`
 
 <a href="https://github.com/PawanForge/Backend-workspace">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="Backend Workspace"/>
+  <img
+    src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"
+    alt="Backend Workspace"
+  />
 </a>
 
 ---
@@ -104,7 +122,10 @@ A collection of practical frontend development work focused on interactive inter
 `HTML` `CSS` `JavaScript` `React` `Responsive Design`
 
 <a href="https://github.com/PawanForge/frontend-workspace">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="Frontend Workspace"/>
+  <img
+    src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"
+    alt="Frontend Workspace"
+  />
 </a>
 
 ---
@@ -118,7 +139,10 @@ A collection of frontend projects created to strengthen UI development, responsi
 `HTML` `CSS` `JavaScript` `React` `Responsive UI`
 
 <a href="https://github.com/PawanForge/frontend-project">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="Frontend Project"/>
+  <img
+    src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"
+    alt="Frontend Project"
+  />
 </a>
 
 ---
@@ -132,7 +156,10 @@ A dedicated learning repository focused on building clean, responsive interfaces
 `Tailwind CSS` `Responsive UI` `Utility-First CSS` `Modern Web Design`
 
 <a href="https://github.com/PawanForge/tailwind-css">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="Tailwind CSS"/>
+  <img
+    src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"
+    alt="Tailwind CSS"
+  />
 </a>
 
 ---
@@ -146,7 +173,10 @@ A practical reference repository for learning Git commands, version-control work
 `Git` `GitHub` `Version Control` `Git Commands`
 
 <a href="https://github.com/PawanForge/git-cammands">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="Git Commands"/>
+  <img
+    src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"
+    alt="Git Commands"
+  />
 </a>
 
 ---
@@ -160,7 +190,10 @@ A Data Structures and Algorithms practice repository focused on strengthening pr
 `Java` `Data Structures` `Algorithms` `Problem Solving`
 
 <a href="https://github.com/PawanForge/DSA-JAVA">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="DSA Java"/>
+  <img
+    src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"
+    alt="DSA Java"
+  />
 </a>
 
 ---
@@ -179,17 +212,17 @@ alt="PawanForge GitHub Contribution Streak"
 
 <br/><br/>
 
-<div align="center">
-
-<h2>📈 Contribution Lifeline</h2>
+### 📈 Contribution Lifeline
 
 <img
-  src="./assets/contribution-lifeline.svg"
-  alt="PawanForge GitHub Contribution Lifeline"
-  width="850"
+src="./assets/contribution-lifeline.svg"
+width="850"
+alt="PawanForge GitHub Contribution Lifeline"
 />
 
 </div>
+
+---
 
 ## 🛰️ Developer Radar
 
@@ -259,9 +292,20 @@ EXPLORATION & EXPERIMENT  ██████████████░░░░
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING-00C853?style=for-the-badge&logo=github" alt="Building"/>
-<img src="https://img.shields.io/badge/MODE-LEARNING-7C3AED?style=for-the-badge" alt="Learning"/>
-<img src="https://img.shields.io/badge/FOCUS-FULL--STACK-2563EB?style=for-the-badge" alt="Full Stack"/>
+<img
+src="https://img.shields.io/badge/STATUS-BUILDING-00C853?style=for-the-badge&logo=github"
+alt="Building"
+/>
+
+<img
+src="https://img.shields.io/badge/MODE-LEARNING-7C3AED?style=for-the-badge"
+alt="Learning"
+/>
+
+<img
+src="https://img.shields.io/badge/FOCUS-FULL--STACK-2563EB?style=for-the-badge"
+alt="Full Stack"
+/>
 
 </div>
 
@@ -348,11 +392,19 @@ EXPLORATION & EXPERIMENT  ██████████████░░░░
 <div align="center">
 
 <a href="https://github.com/PawanForge">
-  <img src="https://img.shields.io/badge/GitHub-PawanForge-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-PawanForge-181717?style=for-the-badge&logo=github"
+    alt="GitHub"
+  />
 </a>
 
+ 
+
 <a href="https://github.com/PawanForge?tab=repositories">
-  <img src="https://img.shields.io/badge/🚀_All_Repositories-00F7FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+  <img
+    src="https://img.shields.io/badge/🚀_All_Repositories-00F7FF?style=for-the-badge&logo=github&logoColor=white"
+    alt="All Repositories"
+  />
 </a>
 
 </div>
