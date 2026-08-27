@@ -179,14 +179,14 @@ alt="PawanForge GitHub Contribution Streak"
 
 <br/><br/>
 
-### 📈 Contribution Graph
-
 <div align="center">
 
+## 📈 Contribution Graph
+
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=PawanForge&theme=tokyo-night&hide_border=true&area=true"
+  src="https://ghchart.rshah.org/58a6ff/PawanForge"
+  alt="PawanForge GitHub Contributions"
   width="850"
-  alt="PawanForge GitHub Contribution Graph"
 />
 
 </div>
