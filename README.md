@@ -181,14 +181,12 @@ alt="PawanForge GitHub Contribution Streak"
 
 <div align="center">
 
-## 📈 Contribution Graph
-
-<div align="center">
+<h2>📈 Contribution Graph</h2>
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=PawanForge&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true"
-  width="100%"
-  alt="Contribution activity graph"
+  src="./profile-3d-contrib/profile-night-rainbow.svg"
+  alt="PawanForge Contribution Graph"
+  width="850"
 />
 
 </div>
