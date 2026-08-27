@@ -181,11 +181,11 @@ alt="PawanForge GitHub Contribution Streak"
 
 <div align="center">
 
-<h2>📈 Contribution Graph</h2>
+<h2>📈 Contribution Lifeline</h2>
 
 <img
-  src="./profile-3d-contrib/profile-night-rainbow.svg"
-  alt="PawanForge Contribution Graph"
+  src="./assets/contribution-lifeline.svg"
+  alt="PawanForge GitHub Contribution Lifeline"
   width="850"
 />
 
