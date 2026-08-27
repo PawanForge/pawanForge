@@ -197,17 +197,14 @@ A Data Structures and Algorithms practice repository focused on strengthening pr
 </a>
 
 ---
-
-## 📊 GitHub Activity
-
 <div align="center">
 
 ### 🔥 Contribution Streak
 
 <img
-src="./profile/streak.svg"
-width="500"
-alt="PawanForge GitHub Contribution Streak"
+  src="./profile/streak.svg"
+  width="500"
+  alt="PawanForge GitHub Contribution Streak"
 />
 
 <br/><br/>
@@ -215,9 +212,9 @@ alt="PawanForge GitHub Contribution Streak"
 ### 📈 Contribution Lifeline
 
 <img
-src="./assets/contribution-lifeline.svg"
-width="850"
-alt="PawanForge GitHub Contribution Lifeline"
+  src="./assets/contribution-lifeline.svg"
+  width="850"
+  alt="PawanForge GitHub Contribution Lifeline"
 />
 
 </div>
