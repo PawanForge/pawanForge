@@ -183,10 +183,12 @@ alt="PawanForge GitHub Contribution Streak"
 
 ## 📈 Contribution Graph
 
+<div align="center">
+
 <img
-  src="https://ghchart.rshah.org/58a6ff/PawanForge"
-  alt="PawanForge GitHub Contributions"
-  width="850"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=PawanForge&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true"
+  width="100%"
+  alt="Contribution activity graph"
 />
 
 </div>
