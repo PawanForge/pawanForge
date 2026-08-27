@@ -181,14 +181,15 @@ alt="PawanForge GitHub Contribution Streak"
 
 ### 📈 Contribution Graph
 
+<div align="center">
+
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=PawanForge&theme=tokyo-night&hide_border=true&area=true"
-width="850"
-alt="PawanForge GitHub Contribution Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=PawanForge&theme=tokyo-night&hide_border=true&area=true"
+  width="850"
+  alt="PawanForge GitHub Contribution Graph"
 />
 
 </div>
----
 
 ## 🛰️ Developer Radar
 
