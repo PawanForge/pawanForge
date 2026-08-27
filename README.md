@@ -209,16 +209,6 @@ A Data Structures and Algorithms practice repository focused on strengthening pr
 
 <br/><br/>
 
-### 📈 Contribution Lifeline
-
-<img
-  src="./assets/contribution-lifeline.svg"
-  width="850"
-  alt="PawanForge GitHub Contribution Lifeline"
-/>
-
-</div>
-
 ---
 
 ## 🛰️ Developer Radar
