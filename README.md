@@ -200,16 +200,13 @@ A Data Structures and Algorithms practice repository focused on strengthening pr
 <div align="center">
 🔥 Contribution Streak
 
-<a href="https://github.com/PawanForge">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=PawanForge&theme=tokyonight&hide_border=true&border_radius=12"
-    width="500"
-    alt="PawanForge GitHub Contribution Streak"
-  />
-</a><br /><sub>⚡ Consistency • Growth • Open Source</sub>
-
-</div>---
-
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=PawanForge"
+width="500"
+alt="PawanForge GitHub Contribution Streak"
+/>
+<br/><br/>
+---
 
 ## 🛰️ Developer Radar
 
