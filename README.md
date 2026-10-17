@@ -1,272 +1,205 @@
  
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1D4ED8,100:06B6D4&text=Pawan%20Kumar%20Yadav&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20LEARN%20BUILD%20IMPROVE&descSize=14&descAlignY=58&animation=fadeIn" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Development;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Java+%7C+Data+Structures+%26+Algorithms;Learn.+Build.+Debug.+Improve." alt="Typing SVG" />
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B1020,45:172554,100:0891B2&text=Pawan%20Kumar%20Yadav&fontSize=38&fontColor=FFFFFF&fontAlignY=36&desc=FULL%20STACK%20DEVELOPER%20%7C%20BUILDING%20WITH%20CONSISTENCY&descSize=13&descAlignY=58&animation=fadeIn" />
 
 <a href="https://github.com/PawanForge">
-<img src="https://img.shields.io/badge/GitHub-PawanForge-161B22?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Visit%20Profile-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-0969DA?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Mindset-Consistency-0891B2?style=for-the-badge" />
+<a href="https://github.com/PawanForge?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Explore%20Work-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=650&lines=React+%7C+JavaScript+%7C+Tailwind;Node.js+%7C+Express+%7C+MongoDB;Java+%7C+Data+Structures+%26+Algorithms;Learn.+Build.+Debug.+Improve." />
 
 </div>
 
 ---
 
-## `01` — About Me
+<h2 align="center">⚡ TECH STACK</h2>
+
+<div align="center">
+
+**FRONTEND**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+
+**BACKEND & DATABASE**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+
+**PROGRAMMING & TOOLS**
+
+<img src="https://skillicons.dev/icons?i=java,git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+<h2 align="center">📌 SKILLS & COVERAGE</h2>
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
-### 👨‍💻 Building my developer journey
+<h3 align="center">⚛️ Frontend</h3>
 
-I'm a student working toward becoming a **Full Stack Web Developer**. I focus on understanding concepts, writing code, solving problems, and building projects that turn theory into practical experience.
+<div align="center">
 
-- 🌱 Improving my frontend and backend development skills.
-- ⚙️ Practising REST APIs, CRUD operations, and database integration.
-- 🧠 Solving DSA problems using Java.
-- 🛠️ Learning by building, debugging, and improving projects.
-- 🎯 Preparing for internships and software development roles.
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+
+</div>
+
+- JSX, Components & Props
+- State & React Hooks
+- Context API & React Router
+- Styling & Reusable UI
 
 </td>
-<td width="40%" valign="middle" align="center">
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github,vscode&theme=dark&perline=3" alt="Technology icons" />
+<h3 align="center">⚙️ Backend</h3>
 
-<br/><br/>
+<div align="center">
 
-**Learn → Build → Debug → Improve**
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black" />
+
+</div>
+
+- HTTP & Routing
+- Middleware & REST APIs
+- CRUD Operations
+- MongoDB Integration
+- EJS Templates
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🧠 DSA with Java</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Problem_Solving-7C3AED?style=flat-square" />
+
+</div>
+
+- Arrays & Strings
+- Linked Lists
+- Stack & Queue
+- Hashing & Trees
+- Recursion & Searching
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🧰 Developer Tools</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+
+</div>
+
+- Version Control
+- Repository Management
+- npm & Package Management
+- Debugging & Practice
 
 </td>
 </tr>
 </table>
 
-## `02` — Tech Stack & Skill Coverage
+---
+
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
 
 <div align="center">
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="Frontend skills" />
-
-</div>
-
-| Technology | Current coverage |
-|:---|:---|
-| HTML & CSS | Page structure, styling, layouts, and responsive UI practice |
-| JavaScript | Variables, functions, arrays, objects, conditions, and core concepts |
-| React | Components, JSX, props, state, hooks, Context API, and routing |
-| Tailwind CSS | Utility-based styling and UI practice |
-
-<div align="center">
-
-### Backend Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend skills" />
-
-</div>
-
-| Technology | Current coverage |
-|:---|:---|
-| Node.js | Core modules, file system, HTTP server, npm, and project setup |
-| Express.js | Routes, middleware, request handling, and REST API practice |
-| MongoDB | Database and collection operations, CRUD, and data retrieval |
-| EJS | Server-rendered pages and connecting backend data to the UI |
-
-<div align="center">
-
-### Programming & Tools
-
-<img src="https://skillicons.dev/icons?i=java,git,github,vscode&theme=dark" alt="Programming and tools" />
-
-</div>
-
-| Area | Current coverage |
-|:---|:---|
-| Java & DSA | Arrays, strings, linked lists, stacks, queues, hashing, trees, recursion, and searching |
-| Problem solving | Practising Easy and Medium problems and learning common problem-solving patterns |
-| Git & GitHub | Repository management, commits, pushes, and version control practice |
-| VS Code & npm | Development workflow, package installation, and project scripts |
-
-<sub>Skill coverage describes topics practised and learned so far, not expert-level proficiency.</sub>
-
-## `03` — Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧾 Expense Tracker
-
-**Node.js · Express · MongoDB · EJS**
-
-An intermediate backend project focused on managing expense data.
-
-- CRUD operations
-- Database integration
-- Express routing
-- EJS views and frontend styling
-
-<img src="https://img.shields.io/badge/Status-In%20Progress-F59E0B?style=flat-square" />
-
-</td>
-<td width="50%" valign="top">
-
-### 🗂️ Backend Workspace
-
-**Node.js · Express · APIs**
-
-A learning workspace for practising backend fundamentals through code examples and mini-projects.
-
-- HTTP server
-- Core modules
-- Request and response handling
-- Server-side development
 
 <a href="https://github.com/PawanForge/Backend-workspace">
-<img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=PawanForge&repo=Backend-workspace&theme=tokyonight&hide_border=true" />
 </a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚛️ Frontend Workspace
-
-**HTML · CSS · JavaScript · React**
-
-A workspace for frontend concepts, UI practice, and reusable components.
-
 <a href="https://github.com/PawanForge/frontend-workspace">
-<img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=PawanForge&repo=frontend-workspace&theme=tokyonight&hide_border=true" />
 </a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 Frontend Projects
-
-**Frontend Development**
-
-A collection of practical frontend exercises and interface-building work.
 
 <a href="https://github.com/PawanForge/frontend-project">
-<img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=PawanForge&repo=frontend-project&theme=tokyonight&hide_border=true" />
 </a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌊 Tailwind CSS
-
-**Tailwind CSS**
-
-Practice with utility classes and styling web interfaces.
+<a href="https://github.com/PawanForge/DSA-JAVA">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=PawanForge&repo=DSA-JAVA&theme=tokyonight&hide_border=true" />
+</a>
 
 <a href="https://github.com/PawanForge/tailwind-css">
-<img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=PawanForge&repo=tailwind-css&theme=tokyonight&hide_border=true" />
 </a>
 
-</td>
-<td width="50%" valign="top">
-
-### ☕ DSA with Java
-
-**Java · Data Structures & Algorithms**
-
-Problem-solving practice focused on core data structures and algorithmic thinking.
-
-<a href="https://github.com/PawanForge/DSA-JAVA">
-<img src="https://img.shields.io/badge/View%20Repository-161B22?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center">
 
 <a href="https://github.com/PawanForge?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20All%20Repositories-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
-## `04` — GitHub Overview
+**Current build:** Expense Tracker — Express.js · MongoDB · EJS · CRUD
+
+---
+
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PawanForge&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanForge&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
-<br/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=PawanForge&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
-## `05` — Currently Working On
-
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-
-### ⚛️ Frontend
-
-React concepts, reusable components, and better UI development.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### ⚙️ Backend
-
-Express APIs, MongoDB CRUD operations, and project structure.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 🧠 DSA
-
-Java problem-solving, patterns, and interview preparation.
-
-</td>
-</tr>
-</table>
-
-## `06` — Development Mindset
-
-<div align="center">
-
-| Principle | What it means |
-|:---:|:---|
-| 📚 Learn | Understand concepts before relying on copy-paste code |
-| 🛠️ Build | Apply learning through practical projects |
-| 🐛 Debug | Find errors and understand why they happen |
-| 🔁 Improve | Refactor code and practise consistently |
-
-</div>
-
-## `07` — Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/PawanForge">
-<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PawanForge&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanForge&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-*Building skills one concept, one problem, and one project at a time.*
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=PawanForge&theme=tokyonight&hide_border=true" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06B6D4,50:1D4ED8,100:0D1117" width="100%" />
+</div>
+
+---
+
+<h2 align="center">🎯 CURRENT FOCUS</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-React%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/02-Backend%20Engineering-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/03-DSA%20Problem%20Solving-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/04-Real%20World%20Projects-0891B2?style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0891B2,50:172554,100:0B1020" />
+
+**LEARN · BUILD · DEBUG · IMPROVE**
+
+<a href="https://github.com/PawanForge">
+<img src="https://img.shields.io/badge/Let's%20Connect-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
