@@ -1,45 +1,32 @@
- <div align="center">
+<div align="center">
 
-# 👋 Hi, I'm Pawan Kumar Yadav
+# 👋 Pawan Kumar Yadav
 
-### 🚀 Full Stack Web Developer | Continuous Learner | Problem Solver
+### 🚀 Full Stack Developer in Progress
 
-**Learn with purpose. Build through practice. Improve with consistency.**
+**Learn → Build → Debug → Improve → Repeat**
 
-I am working toward becoming a strong Full Stack Web Developer by strengthening my fundamentals, building practical applications, solving coding problems, and learning from the challenges I encounter along the way.
+JavaScript · React · Node.js · Express · MongoDB · Java DSA
 
-<br/>
+<a href="https://github.com/PawanForge"><img src="https://img.shields.io/badge/GitHub-PawanForge-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://github.com/PawanForge?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-2563EB?style=for-the-badge&logo=github" alt="Projects"/></a>
 
-<a href="https://github.com/PawanForge">
-  <img src="https://img.shields.io/badge/GitHub-PawanForge-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
-</a>
-<a href="https://github.com/PawanForge?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_My_Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="My Projects"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Development;JavaScript+%7C+React+%7C+Node.js;Building+Projects+That+Turn+Learning+Into+Practice;Solving+Problems+and+Improving+Every+Day" alt="Developer Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Real-World+Projects;Practising+DSA+with+Java;Learning+Full+Stack+Development;Consistency+Over+Perfection" alt="Developer Animation"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 Developer Overview
 
-I'm a developer focused on building a strong foundation in frontend development, backend engineering, databases, and problem-solving.
-
-I believe real improvement comes from more than watching tutorials or learning syntax. It comes from writing code, implementing concepts, debugging errors, understanding solutions, and applying what I've learned to practical projects.
-
-- ⚛️ Building interactive interfaces with React and JavaScript.
-- 🟢 Developing server-side applications with Node.js and Express.js.
-- 🍃 Practising database operations with MongoDB.
-- ☕ Strengthening programming logic and DSA using Java.
-- 🔧 Using Git and GitHub to manage and share development work.
-- 🚀 Building projects to connect individual concepts into working applications.
-- 🎯 Preparing for software development internships and future engineering opportunities.
-
-> **My mindset: Be consistent, understand the fundamentals, solve real problems, and keep raising the standard of my work.**
+| Focus | Current Direction |
+|---|---|
+| 🎨 Frontend | React, JavaScript, responsive UI |
+| ⚙️ Backend | Node.js, Express, REST APIs |
+| 🗄️ Database | MongoDB, CRUD operations |
+| 🧠 Problem Solving | Java, DSA, Easy & Medium problems |
+| 🛠️ Workflow | Git, GitHub, VS Code, npm |
+| 🎯 Goal | Software development internships |
 
 ---
 
@@ -47,176 +34,114 @@ I believe real improvement comes from more than watching tutorials or learning s
 
 <div align="center">
 
-### 🎨 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="HTML, CSS, JavaScript, React and Tailwind CSS"/>
-
-<br/><br/>
-
-### ⚙️ Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express.js and MongoDB"/>
-
-<br/><br/>
-
-### ☕ Programming & Problem Solving
-
-<img src="https://skillicons.dev/icons?i=java" alt="Java"/>
-
-<br/><br/>
-
-### 🔧 Tools & Development Environment
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code"/>
+| Frontend | Backend & Database | Programming | Tools |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" width="200" alt="Frontend"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" width="120" alt="Backend"/> | <img src="https://skillicons.dev/icons?i=java" width="40" alt="Java"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode" width="120" alt="Tools"/> |
 
 </div>
 
 ---
 
-## 🧭 Skills, Coverage & Growth
+## 📊 Technical Skills & Coverage
 
-My skills are built through a combination of concept learning, coding practice, debugging, and project implementation. The following sections describe my learning foundation and the areas I am working to strengthen further.
+### ⚛️ Frontend Development
 
-### ⚛️ 1. Frontend Development
-
-**Technologies:** HTML · CSS · JavaScript · React · Tailwind CSS
-
-| Topic | Coverage |
+| Topic | Concepts Practised |
 |---|---|
-| HTML & CSS | Page structure, styling, layouts, and responsive design |
-| JavaScript | Variables, functions, conditions, loops, arrays, objects, and programming logic |
-| React fundamentals | JSX, components, props, and state |
-| React Hooks | State management and other Hooks, including lifecycle-related patterns |
-| Component development | Reusable UI, props, and component communication |
-| Styling | CSS, component styling, and Tailwind CSS |
+| HTML & CSS | Structure, styling, layouts, responsive design |
+| JavaScript | Functions, arrays, objects, conditions, loops |
+| React | JSX, components, props, state, Hooks |
+| UI Development | Reusable components, Tailwind CSS |
 
-**Next level:** Better component architecture, state management, accessibility, frontend performance, and production-quality UI.
+### 🟢 Backend Development
 
-### 🟢 2. Backend Development
-
-**Technologies:** Node.js · Express.js · JavaScript
-
-| Topic | Coverage |
+| Topic | Concepts Practised |
 |---|---|
-| Node.js fundamentals | Core modules, file system, and server-side JavaScript |
-| HTTP server | Requests, responses, routes, and status codes |
-| Express.js | Application setup, routing, and middleware |
-| REST APIs | CRUD operations and HTTP methods |
-| Request handling | URL parameters, request bodies, and responses |
-| Backend integration | Connecting application logic with databases |
-
-**Next level:** Authentication, authorization, centralized error handling, API security, testing, and maintainable backend architecture.
-
-### 🍃 3. Database Development
-
-**Technology:** MongoDB
-
-| Topic | Coverage |
-|---|---|
-| Database connection | Connecting Node.js applications to MongoDB |
-| Database structure | Databases and collections |
-| CRUD operations | Creating, reading, updating, and deleting records |
-| Application integration | Using stored data in backend routes |
-
-**Next level:** Data modelling, schema validation, indexing, aggregation, query optimization, and data integrity.
-
-### ☕ 4. Data Structures & Algorithms
-
-**Language:** Java
-
-I practise DSA to improve logical reasoning, algorithm selection, and coding interview performance.
-
-| Topic | Coverage |
-|---|---|
-| Programming fundamentals | Conditions, loops, functions, arrays, and strings |
-| Linear data structures | Linked lists, stacks, and queues |
-| Hashing | Hash-based lookups and frequency counting |
-| Trees | Tree traversal and recursive problem solving |
-| Recursion | Breaking problems into smaller subproblems |
-| Searching | Searching algorithms and related problems |
-| Problem-solving practice | Easy and medium coding questions |
-
-**Next level:** Two pointers, sliding window, prefix sums, binary search patterns, heaps, backtracking, graphs, greedy algorithms, and dynamic programming.
-
-The goal is not simply to finish questions. It is to understand the approach, analyse time and space complexity, recognise patterns, and explain why a solution works.
-
-### 🔧 5. Development Tools & Workflow
-
-**Tools:** Git · GitHub · VS Code · npm
-
-- Managing source code and project versions.
-- Creating commits and working with remote repositories.
-- Installing and managing project dependencies.
-- Debugging code and resolving development errors.
-- Organising projects and maintaining repositories.
-
-**Next level:** Automated testing, CI/CD fundamentals, deployment, environment configuration, and collaborative workflows.
-
----
-
-## 🚀 Featured Projects & Practical Work
-
-I use projects to practise concepts, understand how different parts of an application connect, and develop the ability to solve real implementation problems.
-
-### 🟢 Backend Workspace
-
-A workspace for learning server-side development, HTTP handling, routing, and backend functionality using JavaScript technologies.
-
-**Technologies:** `Node.js` `Express.js` `JavaScript` `REST APIs`
-
-<a href="https://github.com/PawanForge/Backend-workspace">
-  <img src="https://img.shields.io/badge/Explore_Backend_Workspace-181717?style=for-the-badge&logo=github" alt="Backend Workspace"/>
-</a>
-
-### ⚛️ Frontend Workspace
-
-A collection of practical frontend work focused on web fundamentals, interactive interfaces, and component-based development.
-
-**Technologies:** `HTML` `CSS` `JavaScript` `React`
-
-<a href="https://github.com/PawanForge/frontend-workspace">
-  <img src="https://img.shields.io/badge/Explore_Frontend_Workspace-181717?style=for-the-badge&logo=github" alt="Frontend Workspace"/>
-</a>
-
-### 🎨 Frontend Projects
-
-Projects for practising interface development, responsive layouts, and translating frontend concepts into working pages.
-
-**Technologies:** `HTML` `CSS` `JavaScript` `React`
-
-<a href="https://github.com/PawanForge/frontend-project">
-  <img src="https://img.shields.io/badge/Explore_Frontend_Projects-181717?style=for-the-badge&logo=github" alt="Frontend Projects"/>
-</a>
-
-### 🌊 Tailwind CSS
-
-A dedicated repository for practising utility-first CSS and responsive interface development.
-
-**Technologies:** `Tailwind CSS` `Responsive Design` `UI Development`
-
-<a href="https://github.com/PawanForge/tailwind-css">
-  <img src="https://img.shields.io/badge/Explore_Tailwind_CSS-181717?style=for-the-badge&logo=github" alt="Tailwind CSS"/>
-</a>
-
-### 🔧 Git Commands
-
-A practical reference for learning Git commands, version control, and everyday GitHub workflows.
-
-**Technologies:** `Git` `GitHub` `Version Control`
-
-<a href="https://github.com/PawanForge/git-cammands">
-  <img src="https://img.shields.io/badge/Explore_Git_Commands-181717?style=for-the-badge&logo=github" alt="Git Commands"/>
-</a>
+| Node.js | Core modules, `fs`, HTTP server |
+| Express.js | Routing, middleware, request/response |
+| REST APIs | HTTP methods, CRUD, status codes |
+| MongoDB | Connections, collections, CRUD operations |
+| EJS | Server-rendered pages and templates |
 
 ### ☕ DSA with Java
 
-A practice repository for developing programming fundamentals, understanding data structures, and strengthening algorithmic problem-solving.
+<div align="center">
 
-**Technologies:** `Java` `Data Structures` `Algorithms` `Problem Solving`
+<img src="https://img.shields.io/badge/Arrays-Covered-238636?style=flat-square" alt="Arrays"/>
+<img src="https://img.shields.io/badge/Strings-Covered-238636?style=flat-square" alt="Strings"/>
+<img src="https://img.shields.io/badge/Linked_List-Covered-238636?style=flat-square" alt="Linked List"/>
+<img src="https://img.shields.io/badge/Stack_&_Queue-Covered-238636?style=flat-square" alt="Stack and Queue"/>
+<img src="https://img.shields.io/badge/Hashing-Covered-238636?style=flat-square" alt="Hashing"/>
+<img src="https://img.shields.io/badge/Trees-Covered-238636?style=flat-square" alt="Trees"/>
+<img src="https://img.shields.io/badge/Recursion-Covered-238636?style=flat-square" alt="Recursion"/>
+<img src="https://img.shields.io/badge/Searching-Covered-238636?style=flat-square" alt="Searching"/>
 
-<a href="https://github.com/PawanForge/DSA-JAVA">
-  <img src="https://img.shields.io/badge/Explore_DSA_with_Java-181717?style=for-the-badge&logo=github" alt="DSA with Java"/>
-</a>
+</div>
+
+**Next patterns to practise**
+
+`Two Pointers` → `Sliding Window` → `Prefix Sum` → `Binary Search` → `Backtracking` → `Greedy` → `Graphs` → `Dynamic Programming`
+
+### 🔧 Development Tools
+
+`Git` · `GitHub` · `VS Code` · `npm` · `Terminal`
+
+---
+
+## 🚀 Project Portfolio
+
+<div align="center">
+
+| Project / Repository | Focus | Repository |
+|---|---|---|
+| 🟢 Backend Workspace | Node.js, Express, APIs | [View Project](https://github.com/PawanForge/Backend-workspace) |
+| ⚛️ Frontend Workspace | Web fundamentals, React | [View Project](https://github.com/PawanForge/frontend-workspace) |
+| 🎨 Frontend Projects | UI, responsive layouts | [View Project](https://github.com/PawanForge/frontend-project) |
+| 🌊 Tailwind CSS | Utility-first styling | [View Project](https://github.com/PawanForge/tailwind-css) |
+| 🔧 Git Commands | Version control | [View Project](https://github.com/PawanForge/git-cammands) |
+| ☕ DSA with Java | Data structures, algorithms | [View Project](https://github.com/PawanForge/DSA-JAVA) |
+
+</div>
+
+---
+
+## 📈 My Growth Roadmap
+
+<div align="center">
+
+```text
+                 CURRENT FOUNDATION
+                         │
+          ┌──────────────┼──────────────┐
+          ▼              ▼              ▼
+     FRONTEND         BACKEND          DSA
+    React + JS     Node + Express    Java + Core
+          │              │              │
+          ▼              ▼              ▼
+    Better UI       Secure APIs     Interview
+    & State         & Validation    Patterns
+          │              │              │
+          └──────────────┼──────────────┘
+                         ▼
+                COMPLETE PROJECTS
+                         │
+                         ▼
+                TEST & DEPLOY
+                         │
+                         ▼
+                INTERNSHIP READY
+```
+
+</div>
+
+### 🎯 Immediate Priorities
+
+- [ ] Complete and polish my Expense Tracker project.
+- [ ] Strengthen React and JavaScript through practical features.
+- [ ] Improve API validation and error handling.
+- [ ] Learn authentication and authorization.
+- [ ] Practise DSA patterns and interview problems.
+- [ ] Deploy projects with clear documentation.
 
 ---
 
@@ -232,96 +157,30 @@ A practice repository for developing programming fundamentals, understanding dat
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PawanForge&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PawanForge&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
-*GitHub statistics show recorded activity and public repository information. They do not measure every hour spent learning, debugging, or practising offline.*
-
 ---
 
-## 🎯 My Current Goals
-
-- [ ] Build complete full-stack applications with connected frontend, backend, and database layers.
-- [ ] Strengthen React and JavaScript through practical feature development.
-- [ ] Improve backend API structure, validation, and error handling.
-- [ ] Learn authentication, authorization, and essential backend security practices.
-- [ ] Practise DSA patterns and solve interview-level problems consistently.
-- [ ] Improve code readability, maintainability, and testing.
-- [ ] Deploy projects and document their setup, features, and technical decisions.
-- [ ] Prepare for software development internships through DSA, projects, and technical fundamentals.
-
----
-
-## 📈 My Development Roadmap
+## 🔁 How I Improve
 
 <div align="center">
 
-```text
-          LEARN THE CONCEPT
-                  │
-                  ▼
-            PRACTISE IN CODE
-                  │
-                  ▼
-           BUILD A FEATURE
-                  │
-                  ▼
-           TEST THE LOGIC
-                  │
-                  ▼
-            DEBUG ERRORS
-                  │
-                  ▼
-         UNDERSTAND THE WHY
-                  │
-                  ▼
-          IMPROVE THE DESIGN
-                  │
-                  ▼
-         INTEGRATE INTO PROJECT
-                  │
-                  ▼
-          REPEAT & LEVEL UP
-```
+`LEARN` → `PRACTISE` → `BUILD` → `DEBUG` → `REFACTOR` → `REPEAT`
+
+**Less copying. More understanding. More practical work.**
 
 </div>
 
-For me, progress means becoming more independent: understanding unfamiliar code, debugging problems systematically, choosing suitable approaches, and building applications with fewer gaps in my understanding.
-
 ---
-
-## 🧠 The Mindset Behind My Work
-
-| Principle | How I apply it |
-|---|---|
-| Consistency | Practise regularly instead of relying only on motivation |
-| Understanding | Learn why code works rather than memorising syntax |
-| Ownership | Investigate errors and work toward solving them independently |
-| Practical learning | Apply concepts in projects instead of keeping them theoretical |
-| Problem solving | Compare approaches and consider time and space complexity |
-| Improvement | Revisit earlier work and strengthen it as my skills develop |
-
-I am still learning, and I see that as a reason to keep building, practising, and improving — not a reason to stop challenging myself.
-
----
-
-## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/PawanForge">
-  <img src="https://img.shields.io/badge/GitHub-PawanForge-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
-</a>
+### 💻 Consistency Builds Skill. Projects Prove Progress.
 
-<a href="https://github.com/PawanForge?tab=repositories">
-  <img src="https://img.shields.io/badge/All_Repositories-2563EB?style=for-the-badge&logo=github" alt="All Repositories"/>
-</a>
+<a href="https://github.com/PawanForge?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Code-181717?style=for-the-badge&logo=github" alt="Explore Code"/></a>
 
-<br/><br/>
-
-**Learn deliberately. Build practically. Improve consistently.**
-
-### 🚀 The goal is not to look like a developer. The goal is to become a better one.
+**Keep Building. Keep Learning. Keep Improving. 🚀**
 
 </div>
