@@ -1,4 +1,4 @@
- 
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B1020,45:172554,100:0891B2&text=Pawan%20Kumar%20Yadav&fontSize=38&fontColor=FFFFFF&fontAlignY=36&desc=FULL%20STACK%20DEVELOPER%20%7C%20BUILDING%20WITH%20CONSISTENCY&descSize=13&descAlignY=58&animation=fadeIn" />
@@ -166,11 +166,16 @@
 <div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PawanForge&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanForge&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=PawanForge&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=PawanForge&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PawanForge&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
