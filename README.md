@@ -171,11 +171,7 @@
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=PawanForge&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PawanForge&theme=tokyo-night&hide_border=true&area=true" />
+<img width="95%" src="https://ghchart.rshah.org/0891b2/PawanForge" alt="PawanForge GitHub contribution graph" />
 
 </div>
 
